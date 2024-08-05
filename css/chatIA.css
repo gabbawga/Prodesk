@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+.container-fluid {
+    display: grid;
+    place-items: center;
+    height: 100vh; /* Altura total da viewport */
+}
+#main {
+    width: 1022px;
+    height: 580px;
+    background-color: #0D688C;
+    border-radius: 5px;
+}
