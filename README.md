@@ -9,7 +9,7 @@ fluxo de trabalho e melhorando a qualidade do atendimento.
 
 ## Como utilizar a ferramenta
 Para cumprir as requisicoes do trabalho, nao utilizamos nenhuma aplicacao ao lado do servidor, desta forma colocamos toda a base de conhecimento em um arquivo txt.
-este arquivo txt deve ser jogado no input de arquivo do chat para grantir o fucionamento da IA. 
+este arquivo txt deve ser jogado no input de arquivo do chat para garantir o fucionamento da IA. 
 
 Caminho do txt 
 Prodesk > SofftekDataBase > BaseConhecimentoGeral.txt
