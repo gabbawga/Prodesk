@@ -1,15 +1,164 @@
 html, body {
     height: 100%;
     margin: 0;
-  }
+}
+
+/* Main */
 .container-fluid {
     display: grid;
     place-items: center;
-    height: 100vh; /* Altura total da viewport */
+    height: 100vh; 
+    padding: 0px;
 }
 #main {
-    width: 1022px;
-    height: 580px;
-    background-color: #0D688C;
+    width: 100%;
+    height: 100%;
+    background-color: #0C506B;
     border-radius: 5px;
+    display: flex; 
+}
+
+/* Sidebar */
+#sidebar {
+    width: 62px; 
+    height: 100%;
+    background-color: #0D688C;
+    padding: 10px;
+    box-sizing: border-box; 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    gap: 10px; 
+}
+
+#sidebar  li:first-child img {
+    display: block;
+    margin: 0 auto; 
+    border-bottom: 2px solid white;
+    padding-bottom: 10px; 
+}
+
+#sidebar .nav-item {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 100%;
+    padding: 5px 0; 
+}
+
+#sidebar .nav-item a {
+    text-align: center; 
+    color: white; 
+    text-decoration: none;
+    width: 100%;
+    margin-right: 25px;
+}
+
+#sidebar .ultimo-item {
+    margin-top: 150px; 
+}
+
+/* Content Area */
+#content {
+    flex-grow: 1; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+#content > .inner-content {
+    width: 800px;
+    height: 450px;
+    background-color: #0D688C; 
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    padding-bottom: 20px;
+}
+
+/* Head Content Area */
+.chat-header{
+    background-color: #114357;
+    border-radius: 5px 0px;
+    padding: 10px;
+    width: 20%;
+}
+
+/* Resposta Bot */
+.response-area .bot-response {
+    display: flex;
+    background-color: #E9ECF2; 
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 10px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    margin: 10px 20px;
+    width: 500px;
+    height: 200px;
+    overflow: scroll;
+}
+
+.response-area .bot-icon {
+    margin-right: 15px;
+}
+
+.response-area .bot-icon img {
+    width: 50px;
+    height: 50px;
+}
+
+.response-area .bot-text p {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Resposta Bot */
+.chat-content {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    background-color: #ffff;
+    border-radius: 90px;
+    padding-top: 5px;
+    margin-left: 200px;
+    width: 400px;
+    height: 50px;
+    
+}
+.file-input-container {
+    position: relative;
+}
+.file-input-container input[type="file"] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+.file-input-container .file-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: #ffff;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    margin: 0px;
+}
+.file-input-container .file-icon img {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+
+.send-icon {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
 }

@@ -1,0 +1,1983 @@
+Número	Aberto	Atualizado em	Estado Relatório	Resolvido Relatório	Categoria Relatório	Subcategoria Relatório	Sintoma	Qualificação Sintoma	Grupo de atribuição	Categoria	Atribuído a	Prioridade	Encerrado	Solicitante Tarefa	Local	Descrição	Comentários Visiveis 	Comentários Visiveis 	Comentários Visiveis 	Comentários Visiveis 	Comentários Visiveis 	Comentários Visiveis 	Comentários Visiveis 	Comentários Visiveis 	Comentários Visiveis 	Resolução
+INC0194887	09-02-2024 17:15:47	03-05-2024 14:34:26	Resolvido	2024-05-03	Outros Sistemas	Adapt			N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	01-05-2024 18:00:04	ADM Sistemas	Fábrica 1	Lentidão sistema	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Em todo departamento	Solução aplicada Reinciado serviço database
+INC0201867	22-03-2024 08:08:10	02-05-2024 14:40:15	Resolvido	2024-05-02	Outros Sistemas	Sistema Labware			N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	01-05-2024 18:00:04	ADM Sistemas	Fábrica 1	Lentidão sistema	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Somente na minha maquina	Solução aplicada Reinciado sistema operacional local 
+INC0204817	16-04-2024 13:35:32	03-05-2024 14:54:03	Resolvido	2024-05-03	Outros Sistemas	HCA		Download	N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	01-05-2024 18:00:04	ADM Sistemas	Escritório central	Lentidão sistema	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Em todo departamento	Solução aplicada Reinciado serviço database
+INC0205119	18-04-2024 07:17:26	02-05-2024 12:29:14	Resolvido	2024-05-02	Outros Sistemas	Lakos			N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	01-05-2024 18:00:04	ADM Sistemas	Fábrica 1	Lentidão sistema	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Somente na minha maquina	Solução aplicada Reinciado sistema operacional local 
+INC0208361	02-05-2024 11:47:19	02-05-2024 13:29:23	Resolvido	2024-05-02	Outros Sistemas	Outros Sistemas		Outros	N1-NÃO SAP	Service Desk	Analista Service Desk	3 - Baixo	01-05-2024 18:00:04	ADM Sistemas	Fábrica 1	Impressora Não Imprime	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Impressora esta ligada?	Sim, somente em minha maquina não imprime 	Realizado instalção driver impressora.
+INC0208388	02-05-2024 16:59:33	02-05-2024 17:49:39	Resolvido	2024-05-02	Outros Sistemas	Gente & Gestão			N1-NÃO SAP	Service Desk	Analista Service Desk	3 - Baixo	01-05-2024 18:00:04	ADM Sistemas	Centro de Distribuição	Sistema não abre 	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Somente na minha maquina	Solução aplicada Reinciado sistema operacional local 
+TASK0900023	19-02-2024 08:16:45	01-05-2024 17:00:04	Fechado	2024-04-26	Acessos	Alteração de Perfil	Manutenção de transação e objeto	Com SAP	N1-ACESSOS-SAP	Acesso	Analista Acesso 	3 - Baixo	01-05-2024 17:00:04	ADM Sistemas	Fábrica 1	Incluir perfil espelho	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar perfil espelho	Usar perfil espelho XXXXXXX	Realizado conforme solicitado o espelhamento do perfil 
+TASK0900593	19-02-2024 13:14:10	01-05-2024 11:00:05	Fechado	2024-04-26	Acessos	Alteração de Perfil	Troca de Perfil	Com SAP	N1-ACESSOS-SAP	Acesso	Analista Acesso 	2 - Médio	01-05-2024 11:00:05	ADM Sistemas	Fábrica 1	Troca de pefil	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar perfil espelho	Usar perfil espelho XXXXXXX	Realizado conforme solicitado o espelhamento do perfil 
+TASK0902990	21-02-2024 15:57:24	01-05-2024 18:00:04	Fechado	2024-04-26	Acessos	Liberação de Acesso	Criação de Acesso	Com SAP	N1-OUTROS	Service Desk	Analista Service Desk	3 - Baixo	01-05-2024 18:00:04	ADM Sistemas	Centro de Distribuição	Criar usuário de rede 	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Anexar aval e planilha de acesso 	Realizado envio das informações solicitadas	Usuário de rede criado e enviado os dados ao gestor imediato
+TASK0912173	05-03-2024 16:55:51	03-05-2024 16:17:38	Resolvido	2024-05-03	Funcional SAP	Solicitação	Análise SAP	Outros	N1-SAP	Service Desk	Analista Service Desk	4 - Planejamento	03-05-2024 16:17:38	ADM Sistemas	Fábrica 1	Impressora Não Imprime	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Impressora esta ligada?	Não, estamos sem energia no local	Realizado acionamento time de facilites local.
+TASK0919208	14-03-2024 18:18:18	01-05-2024 18:00:40	Fechado	2024-04-26	Acessos	Alteração de Perfil	Outras manutenções de Perfil	Com SAP	N1-OUTROS	Service Desk	Analista Service Desk	3 - Baixo	01-05-2024 18:00:40	ADM Sistemas	Fábrica 1	Incluir perfil espelho	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar perfil espelho	Usar perfil espelho XXXXXXX	Realizado conforme solicitado o espelhamento do perfil 
+TASK0926414	25-03-2024 17:17:59	01-05-2024 16:00:04	Fechado	2024-04-26	Equipamento de TI	Solicitação de Equipamento	Colaborador Interno	Capitais e Regiões Metropolitanas	N2-FS-CA	Field Service	Analista Field	3 - Baixo	01-05-2024 16:00:04	ADM Sistemas	Centro de Distribuição	Solicitação de Equipamento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar data e local entrega	Equipamentos liberados para entrega	Equipamentos entregue e termos assinados
+TASK0928474	28-03-2024 09:31:03	02-05-2024 09:08:05	Resolvido	2024-05-02	Acessos	Atualização de Acesso	Atualização de dados cadastrais na BU		N1-OUTROS	Service Desk	Analista Service Desk	3 - Baixo	02-05-2024 09:08:06	ADM Sistemas	Fábrica 1	Atualização de Acesso	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Anexar aval e planilha de acesso 	Realizado envio das informações solicitadas	Usuário de rede criado e enviado os dados ao gestor imediato
+TASK0929053	28-03-2024 17:23:31	03-05-2024 08:41:16	Resolvido	2024-05-03	Sistemas SAP	Suporte Funcional	Analise	Ordem de Produção	N1-SAP	Service Desk	Analista Service Desk	2 - Médio	03-05-2024 08:41:17	ADM Sistemas	Fábrica 1	Suporte Funcional	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Em todo departamento	Solução aplicada Reinciado serviço database
+TASK0931383	02-04-2024 13:05:46	02-05-2024 10:41:16	Resolvido	2024-05-02	Outros Sistemas	Nugenesis	Outros		N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	22-04-2024 15:05:12	ADM Sistemas	Fábrica 1	Sistema lento 	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Em todo departamento	Solução aplicada Reinciado serviço database
+TASK0933095	04-04-2024 10:37:29	01-05-2024 13:00:42	Fechado	2024-04-26	Equipamento de TI	Troca de Equipamento	Colaborador Externo	Acima de 300Km	N2-FS-EX	Field Service	Analista Field	3 - Baixo	01-05-2024 13:00:42	ADM Sistemas	Centro de Distribuição	Troca de Equipamento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar data e local entrega	Equipamentos liberados para entrega	Equipamentos entregue e termos assinados
+TASK0933890	05-04-2024 09:45:04	03-05-2024 09:42:44	Resolvido	2024-05-03	Acessos	Criar Perfil SAP	Criar perfil SAP		N1-SAP	Service Desk	Analista Service Desk	3 - Baixo	03-05-2024 09:42:44	ADM Sistemas	Escritório central	Criar Perfil SAP	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Enviar aval gestor imediato para seguirmos com criação do acesso 	Realizado envio das informações solicitadas	Ralizado a criação do acesso, enviado ao gestor imediato as informações.
+TASK0935862	09-04-2024 09:32:28	02-05-2024 14:22:32	Resolvido	2024-05-02	Equipamento de TI	Configuração de Equipamento	Configuração de Equipamento		N2-FS-NA	Field Service	Analista Field	3 - Baixo	02-05-2024 14:22:33	ADM Sistemas	Fábrica 1	Configuração de Equipamento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Configurar Smartphone XXXX	informar melhor horário para atendimento 	Realizado a configuração do smartphone conforme solicitado
+TASK0937918	11-04-2024 12:02:32	01-05-2024 10:02:12	Fechado	2024-04-26	Equipamento de TI	Devolução de Equipamento	Colaborador Interno	Capitais e Regiões Metropolitanas	N2-FS-NA	Field Service	Analista Field	3 - Baixo	01-05-2024 10:02:12	ADM Sistemas	Fábrica 1	Devolução de Equipamento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Realizar entrega dos equipamentos ao time de gestão de ativos	Realizado entrega dos equipamentos	Equipamentos devolvidos ao estoque local 
+TASK0939623	15-04-2024 10:39:31	01-05-2024 11:02:04	Fechado	2024-04-26	Serviços de TI	Infraestrutura - Soluções	Aquisição / Renovação de Aplicativo		N1-OUTROS	Service Desk	Analista Service Desk	3 - Baixo	01-05-2024 11:02:04	ADM Sistemas	Centro de Distribuição	Solicito novo ponto de rede	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar local e aval para criação ponto de rede	Aguardando passagem do cabeamento	Pontos criados e ativados
+TASK0942133	17-04-2024 18:12:59	01-05-2024 10:02:56	Fechado	2024-04-26	Sistemas	Admissão	Admissão		N1-OUTROS	Service Desk	Analista Service Desk	3 - Baixo	01-05-2024 10:02:56	ADM Sistemas	Fábrica 1	Criar usuário de rede 	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Anexar aval e planilha de acesso 	Realizado envio das informações solicitadas	Usuário de rede criado e enviado os dados ao gestor imediato
+TASK0944627	22-04-2024 12:12:06	02-05-2024 19:54:09	Resolvido	2024-05-02	Acessos	Prorrogação de Acessos	Prorrogação de Acessos SAP		N1-ACESSOS-SAP	Acesso	Analista Acesso 	3 - Baixo	02-05-2024 19:54:09	ADM Sistemas	Escritório central	Prorrogação de Acessos	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Anexar aval e planilha de acesso 	Realizado envio das informações solicitadas	Realizado a prorrogação dos acessos conforme solicitado
+TASK0944775	22-04-2024 14:25:11	01-05-2024 14:03:05	Fechado	2024-04-26	Equipamento de TI	Empréstimo de Equipamento	Empréstimo de Equipamento		N2-FS-NA	Field Service	Analista Field	3 - Baixo	01-05-2024 14:03:05	ADM Sistemas	Fábrica 1	Empréstimo de Equipamento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Solicito notebook para utilizar 	Retirar equipamento junto ao time de Field Service	Equipamento entregue conforme termo assinado e anexado
+TASK0945016	22-04-2024 16:39:18	03-05-2024 09:14:25	Resolvido	2024-05-03	Acessos	Alteração de Perfil	Remediação Solicitadas por Controles Internos (CI)	Com SAP	N1-ACESSOS-SAP	Acesso	Analista Acesso 	3 - Baixo	03-05-2024 09:14:25	ADM Sistemas	Centro de Distribuição	Alteração de Perfil	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar perfil espelho	Usar perfil espelho XXXXXXX	Realizado conforme solicitado o espelhamento do perfil 
+TASK0945485	23-04-2024 10:20:43	03-05-2024 11:11:47	Fechado	2024-05-02	Acessos	Suporte Acessos	Análise de usuários Ativos / Inativos	Sistema Não SAP	N1-ACESSOS	Acesso	Analista Acesso 	3 - Baixo	03-05-2024 11:11:47	ADM Sistemas	Centro de Distribuição	Suporte Acessos	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Anexar aval e planilha de acesso 	Realizado envio das informações solicitadas	Usuário de rede criado e enviado os dados ao gestor imediato
+TASK0946570	24-04-2024 11:33:29	01-05-2024 10:05:04	Fechado	2024-04-26	Outras Solicitações	Outras Solicitações	Dúvida	Informação	TELEFONIA	Field Service	Analista Field	3 - Baixo	01-05-2024 10:05:04	ADM Sistemas	Centro de Distribuição	Configuração de Equipamento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Configurar Smartphone XXXX	informar melhor horário para atendimento 	Realizado a configuração do smartphone conforme solicitado
+TASK0946697	24-04-2024 13:23:11	01-05-2024 12:06:46	Fechado	2024-04-26	Equipamento de TI	Manutenção de Equipamento Locado	Manutenção de Equipamento Locado	Simpress	N2-FS-NA	Field Service	Analista Field	3 - Baixo	01-05-2024 12:06:46	ADM Sistemas	Centro de Distribuição	Manutenção de Equipamento Locado	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Equipamento danificado	Trocar carcaça 	Realizado a troca da carcaça 
+TASK0946794	24-04-2024 14:44:00	01-05-2024 18:02:03	Fechado	2024-04-26	Acessos	Reset/Desbloqueio de Senha	Reset/Desbloqueio de Senha de Sistemas		N1-ACESSOS	Acesso	Analista Acesso 	1 - Alto	01-05-2024 18:02:03	ADM Sistemas	Escritório central	Reset/Desbloqueio de Senha	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Não consigo logar em minha maquina	Informar os dados abaixo	Realizado desbloqueio da senha de rede
+TASK0947172	25-04-2024 08:46:11	02-05-2024 15:37:36	Resolvido	2024-05-02	Acessos	Delegação de Aprovações	Delegação de Aprovações	Sem SAP	N1-ACESSOS	Acesso	Analista Acesso 	3 - Baixo	02-05-2024 15:37:37	ADM Sistemas	Fábrica 1	Troca de Acessos	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar perfil espelho	Usar perfil espelho XXXXXXX	Realizado conforme solicitado o espelhamento do perfil 
+TASK0947321	25-04-2024 10:26:02	01-05-2024 17:04:12	Fechado	2024-04-26	Outros Sistemas	DMDocs	Dúvida	Informação	N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	01-05-2024 17:04:12	ADM Sistemas	Escritório central	Sistema lento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Em todo departamento	Solução aplicada Reinciado serviço database
+TASK0947870	25-04-2024 18:02:24	01-05-2024 10:07:52	Fechado	2024-04-26	Acessos	Atualização de Acesso	Atualização de Acesso		N1-ACESSOS	Acesso	Analista Acesso 	3 - Baixo	01-05-2024 10:07:52	ADM Sistemas	Fábrica 1	Atualização de Acesso	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar acesso a ser liberado 	Por favor liberar acesso a pasta XXXXXX	Acesso liberado de leitura na pasta XXXXXXX
+TASK0947940	26-04-2024 07:37:03	03-05-2024 11:51:07	Resolvido	2024-05-03	Outros Sistemas	Sistema Labware	Outros		N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	03-05-2024 11:51:07	ADM Sistemas	Fábrica 1	Sistema lento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Em todo departamento	Solução aplicada Reinciado serviço database
+TASK0948052	26-04-2024 09:46:43	01-05-2024 11:07:17	Fechado	2024-04-26	Equipamento de TI	Item de Configuração	Criar Item de Configuração – Aplicações		N2-ATIVOS-IC	Ativos	Analista Service Desk	3 - Baixo	01-05-2024 11:07:17	ADM Sistemas	Centro de Distribuição	Item de Configuração	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Preencher planilha em anexo para criação das Ics 	Planilha enviada com informações solicitadas	Raealizado a criação das Ics solicitadas.
+TASK0948363	26-04-2024 14:36:09	01-05-2024 17:06:56	Fechado	2024-04-26	Acessos	Revogação de Acesso	Revogação de Acesso	Sem SAP	N1-ACESSOS	Acesso	Analista Acesso 	3 - Baixo	01-05-2024 17:06:56	ADM Sistemas	Escritório central	Revogação de Acesso	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Anexar aval e planilha de acesso 	Realizado envio das informações solicitadas	Realizado a revogação dos acessos conforme solicitado
+TASK0948365	26-04-2024 14:39:07	03-05-2024 09:35:45	Resolvido	2024-05-03	Acessos	Liberação de Acesso	Reativação de Acessos	Com SAP	N1-ACESSOS-SAP	Acesso	Analista Acesso 	2 - Médio	03-05-2024 08:05:24	ADM Sistemas	Fábrica 1	Liberação de Acesso	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Anexar aval e planilha de acesso 	Realizado envio das informações solicitadas	Usuário de rede criado e enviado os dados ao gestor imediato
+TASK0948800	29-04-2024 09:29:21	02-05-2024 10:00:14	Resolvido	2024-05-02	Equipamento de TI	Solicitação de Equipamento	Colaborador Interno	Capitais e Regiões Metropolitanas	N2-FS-NA	Ativos	Analista Service Desk	3 - Baixo	02-05-2024 10:00:14	ADM Sistemas	Fábrica 1	Solicitação de Equipamento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar data e local entrega	Equipamentos liberados para entrega	Equipamentos entregue e termos assinados
+TASK0948949	29-04-2024 11:15:10	03-05-2024 13:43:13	Resolvido	2024-05-03	Equipamento de TI	Hands on	Hands on		N2-FS-NA	Ativos	Analista Service Desk	3 - Baixo	03-05-2024 13:43:14	ADM Sistemas	Fábrica 1	Solicito novo ponto de rede	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar local e aval para criação ponto de rede	Aguardando passagem do cabeamento	Pontos criados e ativados
+TASK0950427	02-05-2024 05:37:17	03-05-2024 00:34:26	Resolvido	2024-05-03	Serviços de TI	Infraestrutura - Soluções	Instalação de Aplicativos	Suporte a Instalação e Configuração de Aplicativos	N2-FS-NA	Field Service	Analista Field	3 - Baixo	03-05-2024 00:34:26	ADM Sistemas	Fábrica 1	Solicito novo ponto de rede	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar local e aval para criação ponto de rede	Aguardando passagem do cabeamento	Pontos criados e ativados
+TASK0950560	02-05-2024 09:02:47	02-05-2024 15:13:57	Resolvido	2024-05-02	Equipamento de TI	Controle de Acesso e Relógio de Ponto	Suporte	Porta	N2-FS-NA	Field Service	Analista Field	3 - Baixo	02-05-2024 15:13:57	ADM Sistemas	Escritório central	Controle de Acesso e Relógio de Ponto	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Porta lenta ao abrir	Por favor informar local 	Realizado restart do serviço local 
+TASK0950674	02-05-2024 09:43:30	02-05-2024 13:03:35	Resolvido	2024-05-02	Equipamento de TI	Controle de Acesso e Relógio de Ponto	Suporte	REP	N2-FS-NA	Field Service	Analista Field	3 - Baixo	02-05-2024 13:03:35	ADM Sistemas	Centro de Distribuição	Controle de Acesso e Relógio de Ponto	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Porta lenta ao abrir	Por favor informar local 	Realizado restart do serviço local 
+TASK0950875	02-05-2024 11:33:41	02-05-2024 16:30:38	Fechado	2024-05-02	Outros Sistemas	DocNix	Outros		N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	02-05-2024 16:30:36	ADM Sistemas	Fábrica 1	Sistema lento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Somente na minha maquina	Solução aplicada Reinciado sistema operacional local 
+TASK0951510	03-05-2024 08:37:13	03-05-2024 09:57:23	Resolvido	2024-05-03	Outros Sistemas	Dynamics	Auditoria Interna	Outros	N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	03-05-2024 09:57:23	ADM Sistemas	Centro de Distribuição	Sistema lento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Somente na minha maquina	Solução aplicada Reinciado sistema operacional local 
+TASK0951667	03-05-2024 09:44:47	03-05-2024 09:49:36	Resolvido	2024-05-03	Equipamento de TI	Hands on	Ativar Ponto de Rede		N2-FS-NA	Field Service	Analista Field	3 - Baixo	03-05-2024 09:49:36	ADM Sistemas	Escritório central	Sistema lento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Somente na minha maquina	Solução aplicada Reinciado sistema operacional local 
+TASK0951715	03-05-2024 10:04:45	03-05-2024 17:17:11	Resolvido	2024-05-03	Outros Sistemas	HCA	Dúvida	Informação	N2-LEG-SAT	AMS-Não SAP	Analista AMS	3 - Baixo	03-05-2024 17:17:11	ADM Sistemas	Escritório central	Sistema lento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Em todo departamento	Solução aplicada Reinciado serviço database
+TASK0951951	03-05-2024 12:55:09	03-05-2024 13:18:47	Resolvido	2024-05-03	Equipamento de TI	Hands on	Solicitação de NF Entrada\Saída		N2-AT-EXTERNOS	Ativos	Analista Service Desk	3 - Baixo	03-05-2024 12:59:36	ADM Sistemas	Centro de Distribuição	Sistema lento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Em todo departamento	Solução aplicada Reinciado serviço database
+TASK0951957	03-05-2024 13:02:51	03-05-2024 13:18:29	Resolvido	2024-05-03	Equipamento de TI	Hands on	Solicitação de NF Entrada\Saída		N2-AT-EXTERNOS	Ativos	Analista Service Desk	3 - Baixo	03-05-2024 13:06:37	ADM Sistemas	Centro de Distribuição	Sistema lento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Somente em sua maquina ?	Em todo departamento	Solução aplicada Reinciado serviço database
+TASK0951959	03-05-2024 13:06:27	03-05-2024 13:34:03	Resolvido	2024-05-03	Impressoras	Suporte Impressoras	Troca de Toner		N2-FS-NA	Field Service	Analista Field	3 - Baixo	03-05-2024 13:34:03	ADM Sistemas	Centro de Distribuição	Suporte Impressoras	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Papel atolado	informar local da impressora?	Realizado a retirada dos papeis atolados
+TASK0951964	03-05-2024 13:15:34	03-05-2024 13:18:10	Resolvido	2024-05-03	Equipamento de TI	Hands on	Solicitação de NF Entrada\Saída		N2-AT-EXTERNOS	Ativos	Analista Service Desk	3 - Baixo	03-05-2024 13:18:10	ADM Sistemas	Centro de Distribuição	Configuração de Equipamento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Configurar Smartphone XXXX	informar melhor horário para atendimento 	Realizado a configuração do smartphone conforme solicitado
+TASK0951989	03-05-2024 13:51:37	03-05-2024 13:53:26	Resolvido	2024-05-03	Equipamento de TI	Hands on	Transferência de Equipamento		N2-FS-NA	Ativos	Analista Service Desk	3 - Baixo	03-05-2024 13:53:26	ADM Sistemas	Centro de Distribuição	Transferência de Equipamento	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar numero da nota de entrada	Informação anxeada conforme solicitado	Nota de saida anexada e enviada para seguir com transferencia
+TASK0952138	03-05-2024 15:52:12	03-05-2024 16:26:54	Resolvido	2024-05-03	Suporte a Equipamento	Roaming Internacional	Liberação de Roaming Internacional		TELEFONIA	Field Service	Analista Field	3 - Baixo	03-05-2024 16:26:54	ADM Sistemas	Centro de Distribuição	Roaming Internacional	Aguardando atendimento 	Em atendimento	Enviar evidencias 	Evidencias Anexadas	Problema Persiste	Acionando Nivel 2 	Acionando Nvel 3 	Informar data para ativação 	Data informadas conforme solicitado	Ativação do Roaming Internacional concluida conforme solicitado
+ 
+INSTRUÇÃO DE TRABALHO (IT) 
+SISTEMA Y- Alteração de Acessos
+1. Introdução / Pré-requisitos para execução da IT
+Esta Instrução de Trabalho visa orientar na atividade de alteração de acesso do usuário no sistema SISTEMA Y.
+1.1 Pré-requisitos 
+a) Ter acesso ao sistema SISTEMA Ycom permissão para alterar acesso.
+b) Nome completo do usuário;
+c) Tipo da alteração de acesso (Perfil);
+d) O chamado deverá ser aberto ou possuir anexo de autorização das colaboradoras:                          
+Obs.: Caso o usuário seja da localidade Anápolis/Brainfarma será válido o aval da documentação técnica:
+X
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+2. Referências
+Não há referências.
+3. Descrição das Atividades
+3.1. Para alterar acessos de usuários no sistema SISTEMA Y acesse o sistema no link:
+http://xxxxxxxxxxxxxxxx  
+  3.1.1. Logar no sistema com seu “Login” e “Senha”, após clicar em “Enviar”. 
+
+ 
+     3.1.2. No menu “Administração” escolher  a opção “Controle de Acesso”. 
+
+ 
+     3.1.3. No menu “Controle” clique  na opção “Usuário”. 
+
+ 
+    3.1.4. Em “Lista de Usuários” inserir o nome completo do usuário que necessita alterar o tipo de acesso e clicar em Listar, em seguida clicar no nome do mesmo.
+
+ 	 	 
+    3.1.5. Com o cadastro do usuário aberto, clicar em “Ação > Editar Usuário”: 
+
+ 
+    3.1.6. Em seguida, clique em “Pertence aos grupos”, onde abrirá a janela “Lista de grupos” para marcar o grupo que o usuário            pertencerá: 
+
+ 
+ 
+    3.1.7. Após, clique em “Atribuições”, onde abrirá a janela “Lista de Atribuições” para selecionar o acesso que o usuário terá: 
+
+
+
+ 
+    3.1.8. Com o acesso do usuário alterado, clicar em “Ação > Salvar Usuário”:
+
+ 
+ 
+4. Anexos
+Não há anexos.
+ INSTRUÇÃO DE TRABALHO (IT) 
+SISTEMA Y - Alterar Perfil de Acesso 
+1. Introdução / Pré-requisitos para execução da IT
+Esta instrução de trabalho orienta o passo a passo para atribuição de grupos de acesso ao SISTEMA Y, para a atribuição do mesmo é necessário que os seguintes questionamentos tenham sido respondidos via chamado. Com autorização gerencial em anexo.
+1.1 Pré-requisitos 
+a) Nome do colaborador;
+b) Usuário do Sistema SISTEMA Y;
+c) Motivo da alteração do perfil;
+d) Tipo e Grupo de acesso ou usuário cópia;
+e) Autorização gerencial.
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+2. Referências
+Não há referências.
+3. Descrição das Atividades das Atividades
+3.1 Atribuir perfil de acesso ao SISTEMA Y
+Após o usuário está criado é necessário que o mesmo seja atribuído a um perfil de acesso. Seguindo os passos abaixo.
+Clique em "Users" e todos os usuários cadastrados no sistema serão exibidos.
+Obs.: Existem três grupos de usuários: Ativos, Inativos ou Removidos. 
+Ativos (Active): São usuários ativos no sistema, é possível acesso ao sistema de acordo com o seu nível de permissão de acesso e grupo de acesso atribuído;
+Inativos (Disable): São usuários inativos no sistema, não sendo possível a sua conexão no sistema independentemente do nível de acesso ou grupo atribuído.
+Obs.: O status Inativo é utilizado em caso de férias, ou ausência do usuário por um período X de dias. Neste cenário somente o usuário solicitará sua reativação.
+Removidos (Removed): São usuários removidos do sistema, não sendo possível a sua conexão no sistema independentemente do nível de acesso ou grupo atribuído.
+Obs.: Esta opção é utilizada para colaboradores que foram desligados da companhia ou que não utilizarão o Empower em suas atividades.
+O perfil de aceso deve ser o mesmo em “Allowed User Types”e “Default User Type”.  
+Como próximo passo, marque o chekbox "Password Required" 
+Em Default User Interface, selecione a opção “Pro” 
+ 
+Nos checkbox da caixa “Allowed Interfaces”
+Deixe marcado somente “Pro Interfaces” 
+ 
+Recapitulando, após todas as configurações, a tela deve ser idêntica à tela abaixo. Somente os campos User Name, Full Name, Allowed User Types e Default User Types devem ser modificados de acordo com os requisitos que foram enviados pelo usuário. 
+ 
+ 
+Anexos
+Não há anexos. 
+INSTRUÇÃO DE TRABALHO (IT)
+SISTEMA Y– Alteração de Acessos
+
+
+
+Introdução / Pré-requisitos para execução da IT
+Este documento estabelece o procedimento que os analistas de acessos deverão seguir para alterar o acesso do usuário no sistema SISTEMA Y.
+1.1	Pré-requisitos:
+a)	Acesso administrativo ao SISTEMA Y;
+b)	Se a atribuição é para o usuário ou para o grupo (se for para o grupo, informar o grupo).
+I.	Grupos: Contabilidade, Fiscal Estadual, Gestor e TI.
+c)	O tipo de atribuição (módulo).
+d)	A Empresa e Filial que terá acesso.
+e)	Anexar o print da tela que deseja a alteração;
+f)	O Aval do Gerente de Compliance Fiscal:
+I.	XXXXX
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+
+
+Referências
+Não há referências.
+Descrição das Atividades
+Acesse o Citrix via Internet Explorer utilizando o endereço https:// xxxxxxxxxxxxx
+Faça logon utilizando o usuário e senha de rede.
+
+
+
+3.1.	Clique em Sistemas:
+ 
+
+
+
+
+
+3.1.1.	Em seguida, clique em SISTEMA Y:
+
+
+
+
+3.1.2.	Logo após em SISTEMA Y:
+
+
+
+
+3.1.3.	Ao abrir a pasta, selecione o SYSTEMA Y informado no chamado:
+
+
+
+3.2.	Clique em “Opções”:
+ 
+
+
+
+3.2.1.	Clique em “Configurar Segurança”:
+
+
+
+3.2.1.1.	Configurar Segurança: Utilizado para gerenciar o acesso aos usuários do sistema;
+3.2.1.2.	Criar nova conexão: Utilizada para criar uma nova conexão com o Banco de Dados;
+3.2.1.3.	Editar esta conexão: Utilizada para editar uma conexão existente.
+Observação: A equipe de Gestão de Acessos utiliza apenas o módulo “Configurar Segurança”. Os módulos “Criar nova conexão” e “Editar esta conexão” são utilizados somente pelos administradores do sistema.
+
+
+
+3.2.2.	Informe o “Login” e “Password”:
+ 
+
+
+
+3.2.3.	O sistema abrirá a tela de menus:
+
+
+
+
+3.2.3.1.	Users: Utilizado para criar usuário;
+3.2.3.2.	Groups: Utilizado para criar grupo;
+3.2.3.3.	App: Utilizado para criar aplicações;
+3.2.3.4.	Conects: Utilizado para criar conexão;
+3.2.3.5.	Roles: Utilizado para criar regra;
+3.2.3.6.	Objects: Utilizado para atribuição de acesso ao objeto;
+3.2.3.6.	Restrict: Utilizado para criar restrição de acesso;
+3.2.3.7.	Profiles: Utilizado para atribuir grupo, aplicação e conexão para o usuário;
+3.2.3.8.	Roles: Utilizado para atribuir regra para o usuário ou grupo.
+
+
+3.3.	: A alteração de acesso pode ser realizada para o grupo ou para o usuário, conforme informado no chamado.
+
+
+3.3.1.	Alteração para o usuário, clique em “Profiles”, marque a opção “User” na primeira coluna, localize o nome do usuário. Na segunda coluna, localize a aplicação que o usuário solicitou acesso:
+ 
+
+
+
+3.3.1.1.	Clique sobre a aplicação solicitada e arraste até o usuário da primeira coluna. Em seguida clique em “Yes” para atribuir o acesso e “Save”:
+
+3.3.2.	Alteração para o grupo, clique em “Profiles”, marque a opção “Groups” na primeira coluna, localize o nome do grupo. Na segunda coluna, localize a aplicação que o usuário solicitou acesso:
+ 
+
+3.3.2.1.	Clique sobre a aplicação solicitada e arraste até o grupo da primeira coluna. Em seguida clique em “Yes” para atribuir o acesso e “Save”:
+
+
+Anexos
+Não há anexos.
+
+até, a fim de torná-la disponível para os usuários.
+INSTRUÇÃO DE TRABALHO (IT)
+IT Sistema SISTEMA Y
+ 
+ 
+Introdução / Pré-requisitos para execução da IT
+Este documento foi preparado para orientar a Gestão de Acessos – TI Aplicações quanto ao cadastramento de usuários no SYSTEMA Y utilizado pela equipe do Financeiro.
+Link de acesso: https://xxxxxxxxxxxx
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+Referências
+Não há referências.
+Descrição das Atividades
+Segue abaixo, a descrição do procedimento para criação / alteração de usuário no sistema.
+3.1 – Cadastro de usuários. 
+Requisitos:
+a) Nome completo do usuário;
+b) CPF;
+c) RG;
+d) Login de rede do usuário;
+e) Perfil a ser atribuído ou usuário cópia;
+f) Ambiente que deseja acesso (DEV, QA e PRD);
+g) Aval do Gerente (para acesso ao ambiente PRD);
+h) Validação de Controles Internos.
+ 
+Abra o navegador e digite o endereço HTTPS://XXXXXXX. 
+A página de login aparecerá, digite o nome de usuário e senha de um perfil Gestão de acessos e entre no sistema. Clicar em novo usuário. 
+Preencher com os dados solicitados, clicar em próximo. 
+Determinar o perfil a ser utilizado, lembrando que o perfil beneficiário não poderá ser concedido pela equipe de acessos, clicar em próximo. 
+Na próxima tela preencher com os dados solicitados e clicar em finalizar o cadastro clicando no botão Cadastrar Usuários. Após aparecerá a mensagem abaixo, confirmando a finalização do cadastro. · Retornar para o usuário informando que o cadastro foi finalizado e informar a senha provisória.
+
+3.2 – Alteração de Cadastro de usuários.
+Requisitos:
+a) Nome completo do usuário;
+b) Login de rede do usuário;
+c) Ambiente que deseja acesso (DEV, QA e PRD);
+d) Aval do Gerente (para acesso ao ambiente PRD).
+ 
+Abra o navegador e digite o endereço HTTPS://XXXX
+A página de login aparecerá, digite o nome de usuário e senha de um perfil Gestão de acessos e entre no sistema. Clicar em atualizar informação.
+
+Selecionar o tipo de usuário.
+
+ 
+
+ 
+Clicar no botão Alterar os campos solicitados. Apenas os campos são disponibilizados para alteração.
+· Nome;
+· RG;
+· CPF;
+· Empresa;
+· Cargo;
+· E-mail;
+· Órgão administrativo. Após isso clicar no botão confirmar. A alteração será finalizada.
+Anexos
+Não há anexos. 
+INSTRUÇÃO DE TRABALHO (IT)
+Manutenção de Perfil no SISTEMA Y
+Introdução / Pré-requisitos para execução da IT
+Este documento estabelece o procedimento para os analistas de Acesso criar, alterar e/ou modificar Perfil e Funções no SISTEMA Y (SISTEMA Y e Pagamento aos Distribuidores e Redes) que podem ser acessados através do endereço do ambiente de produção https://xxxxxxxxxxxxxxxx
+Para os demais ambientes, os endereços são:
+DEV: https://xxxxxxxxxxxxxxxx
+QAS: https://xxxxxxxxxxxxxxxx
+Pré-requisitos:
+a) O usuário precisa estar cadastrado no AD.
+b) O acesso ao sistema Web poderá ser pelo Google Chrome e Internet Explorer (IE).
+ 
+Ter e-mail de autorização da responsável pelo negócio, que atualmente a responsável é a XXXX . Na sua ausência, a responsável será a XXXX
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+Referências
+Não há referências.
+Descrição das Atividades
+ 
+Perfil
+Tela para cadastrar perfis. 
+ 
+ 
+· Descrição: informar o perfil.
+Após o perfil informado, para gravar clicar em 
+Observação: Todo registro criado é gravado com o status Ativo.
+Além das funcionalidades de excluir e editar existe a funcionalidade de alterar status, Uma vez clicado nesta opção, o sistema abrirá um pop-up informando se realmente deseja alterar o status, se clicar em, o sistema alterará o status do perfil. Se tiver ativo, desativará e se estiver desativado, ativará.
+ 
+Exemplo:
+
+ 
+ 
+Perfil Administrador está ativo, clicando em , aparecerá a seguinte mensagem:
+ 
+
+Ao clicar em, o sistema alterará o status.
+ 
+Na funcionalidade excluir, caso o perfil já esteja associado a uma função e usuário, o sistema não permitirá a exclusão, exibindo a seguinte mensagem de erro: Função
+ 
+NOTA: O Cadastro de função será realizado pela equipe de Web. A associação da função ao perfil que é de responsabilidade da equipe de Acesso.
+ Tela para cadastrar funções.
+Para adicionar uma nova função, clicar em.
+ 
+ 
+· Código: informar um código. Nesse campo deve ser informado um objeto de desenvolvimento. Para o nome do código, segue as recomendações dadas pelo fornecedor.
+· Descrição: informar uma descrição da função. 
+Para gravar os dados informados, clicar em 
+ 
+Observação: Todo registro criado é gravado com o status Ativo.
+Além das funcionalidades de excluir e editar existe a funcionalidade de alterar status, . Uma vez clicado nesta opção, o sistema abrirá um pop-up informando se realmente deseja alterar o status, se clilcar em , o sistema alterará o status do perfil. Se tiver ativo, desativará e se estiver desativado, ativará. 
+Exemplo:
+ 
+A função pgnAgrpLinhaProduto está ativo, clicando em, aparecerá a seguinte mensagem:
+ 
+
+ Na funcionalidade excluir, caso a função já esteja associado a um perfil, o sistema não permitirá a exclusão, exibindo a seguinte mensagem de erro:
+ 
+ 
+Anexos
+Não há anexos.
+INSTRUÇÃO DE TRABALHO
+CS - SAP PORTAL - RESET DE SENHA
+ 
+1. Introdução / Pré-requisitos para execução da IT
+Esta instrução de trabalho tem como objetivo orientar os analistas no processo de alteração de senha do usuário nos sistemas SAP e Portal SAP.
+ 
+Pré-requisitos:
+a) Nome completo do usuário;
+b) Login do usuário nos sistemas SAP e Portal SAP;
+c) Acesso ao SAP Solution Manager;
+d) Acesso ao Portal SAP;
+e) Chamado deve ser solicitado/registrado pelo próprio usuário ou pelo gestor imediato.
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+2. Referências
+Não há referências.
+ 
+3. Descrição das Atividades
+Para alterar senha do usuário no sistema Portal SAP, siga os passos abaixo:
+3.1 Para realizar alteração de senha do usuário no SAP Portal é necessário acessar o endereço do ambiente desejado, informe usuário, senha e clique em “Logon”:
+ 
+3.1.1 Endereços do SAP Portal:
+a) Ambiente de Produção: https://xxxxxxxxxxxxxxxxxxxxxx
+b) Ambiente de desenvolvimento: https://xxxxxxxxxxxxxxxxxxxxxx
+c) Ambiente de qualidade: https://xxxxxxxxxxxxxxxxxxxxxx
+ 
+3.2 Selecione a aba “Administração de Usuário”, informe o usuário que deseja realizar alteração de senha, tecle “Enter”, selecione o usuário e clique em “Modificar”.
+ 	
+ 
+3.3 Na aba “Informações Gerais”, altere a senha através dos campos “Definir Senha” e “Confirmar Senha”. Em seguida, clique em “Gravar”.
+ 
+ 
+4. Anexo
+N/A
+ 	 	 
+ 
+INSTRUÇÃO DE TRABALHO
+ZBO104 - ATIVAR E INATIVAR CONTA DE USUÁRIO DE SISTEMA
+ 
+ 
+Introdução / Pré-requisitos para execução da IT
+ 
+Esta instrução de trabalho visa orientar analista/assistente das áreas: Central de Serviços, Satélite e Operação, a ativar ou inativar uma conta de sistema no cadastro único de usuários do SAP.
+Pré-requisitos:
+1.	
+a.	Número da Identidade do usuário no SAP, ou número do CPF;
+b.	Dados da conta do sistema;
+c.	Acesso à transação ZBO104 e ao sistema específico; 
+d.	Possuir Login cadastrados e ativos dos SYSTEMA Y e SAP na transação ZBO104 para a própria identidade que irá realizar a ativação/ inativação, caso a solicitação seja para esses sistemas. 
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+ 
+ Referências
+ 
+ 
+ Descrição das Atividades
+•	Responsabilidades da Central de serviços para revogação dos sistemas: SYSTEMA Y e SAP.
+•	Responsabilidades de Acessos para revogação do sistema: SYSTEMA Y.
+•	Responsabilidades da Operação para revogação do sistema: AD (Usuário de rede).
+ 
+Para inativar os acessos dos sistemas descritos acima, siga os passos abaixo:
+ 
+Passo 01: Abra o SAP Logon e clique duas vezes no ambiente “02) SAP ERP Produção”.
+ 
+ 
+Passo 02: Digite o número da identidade ou o CPF do colaborador, clique no mechcode executar   ou tecle “Enter”.
+
+ 
+Passo 03: Para inativar uma conta, selecione a conta, clique no mechcode “Ativar/inativar Conta”   ou tecle “F6”.
+ 
+Observação: Caso a conta a ser Ativada/Inativada seja dos sistemas SYSTEMA Y, ir para o “Passo 05”.
+
+3.1. Clique no mechcode   para finalizar a alteração.
+ 
+ 
+ 
+Passo 04: Após finalizar a alteração, verifique se o campo “Status cta” está de acordo com o solicitado.
+ 
+Observação: “A” para Ativo e “I” para Inativo.  
+ 
+ 
+ 
+Passo 05: Para inativar uma conta do SYSTEMA Y, selecione a conta e clique no mechcode “Ativar/inativar Conta”   ou clique em “F6” conforme o “Passo 3”. 
+ 
+                5.1. Clique no mechcode   para sair do log de execução SM49.
+ 
+Observação: Se na tela aparecer a informação “1 rows affected”, a inativação foi realizada com sucesso. Caso apareça a informação “0 rows affected”, não houve inativação, siga o “Passo 8”.
+ 
+
+ 
+Passo 5.2: Clique no mechcode   para finalizar a alteração.
+ 
+ 
+ 
+Passo 06: Após finalizar a alteração, verifique se o campo “Status cta” está de acordo com o solicitado.
+ 
+Observação: “A” para Ativo e “I” para Inativo.  
+ 
+ 
+Passo 07: Caso apareça a tela abaixo ao desativar os SYSTEMA Y e SAP, clique no mechcode   para sair do log de execução SM49.
+  
+Observação: Conforme o “Passo 6.1”, caso apareça “0 rows affected”, significa que a inativação não foi realizada.
+ 
+7.1: Como mostra a mensagem de erro no canto inferior da tela, o usuário não foi encontrado no sistema. E como mostra o campo “Status cta”, o status da conta não foi alterado.
+ 
+Observação: Caso tenha ocorrido o processo acima, será necessário ir ao sistema correspondente e procurar pelo funcionário. Se o login for encontrado e estiver cadastrado errado, será necessário excluir e cadastrar a conta novamente para a identidade conforme as IT‘s. 
+
+ 
+ 
+ Anexos
+ 
+Não há anexos.
+ 
+Instrução de Trabalho
+ CS - SAP – PRORROGAÇÃO E REVOGAÇÃO DE ACESSO DE TERCEIRO
+ 
+ 
+Introdução / Pré-requisitos para execução da IT
+Esta instrução de trabalho visa orientar o assistente da Central de Serviços na prorrogação e revogação de acessos de terceiros no sistema SAP.
+Pré-requisitos:
+1.	
+a.	Acesso à caixa de e-mail “Suporte”;
+b.	Acesso às transações: ZBO103, ZBO104 e ZBO127;
+c.	Para Prorrogação de Acesso de Terceiro:
+1.	
+•	Validação/resposta do gestor (GER/DIR) para prorrogação do acesso;
+•	Prazo máximo para prorrogação de acesso é de 90 dias (o SAP não aceita mais do que 90 dias)
+1.	
+a.	Para Revogação de Acesso de Terceiro
+1.	
+•	Validação/resposta do gestor para revogação programada ou imediata de acesso
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+Referências
+ 
+n/a
+ 
+Descrição das Atividades
+ 
+O sistema SAP envia automaticamente e-mail de “Acessos de Terceiros a Vencer – Ambiente ECP” para o gestor responsável quando faltam 05 dias para vencimento dos acessos. 
+Por meio deste, os acessos são prorrogados ou revogados.
+
+
+Quando no ato de revogar/prorrogar acessos, o time CS tem visibilidade do COUPA, SAP PRD, QAS e DEV.
+
+Quando for aberto um chamado para o atendimento do time de ACESSOS SAP, deve-se abrir 1 chamado para qualquer uma ou para todas as frentes SAP como COUPA, SAP PRD, QAS e ou DEV. 
+I- PRORROGAÇÃO DE ACESSO DE TERCEIRO
+Os acessos são prorrogados quando, no período das 05 notificações diárias, via e-mail, o gestor solicita a renovação dos acessos. 
+Caso gestor autorize a prorrogação de acesso, siga os passos abaixo:
+3.	Caso seja o mesmo gestor, prossiga com o passo 3.1.2.
+4.	Caso sejam gestores diferentes, faça:
+
+I.	Abra chamado relacionado para Correção de dados cadastrais
+II.	Realize a alteração do gestor imediato responsável pela resposta do e-mail.
+III.	Prossiga o atendimento da solicitação conforme passo 3.1.2
+1.	
+1.	Anexe o e-mail de resposta do gestor;
+2.	Classifique o chamado: - Prorrogação/Revogação de Acesso de Terceiro;
+3.	EQUIPE: N1 - OUTROS
+4.	Na aba Especificação preencha no atributo “Nome do Serviço” o valor “Prorrogação”.
+5.	Siga os passos abaixo para tratativa da solicitação: 
+  I-ZBO103 – Identidades
+Acesse a transação ZBO103 e realize a prorrogação do acesso do usuário conforme informação do gestor.
+Clique em “Alterar” através do botão  
+   
+I.	Preencha o Nr. Chamado;
+II.	Informe o “Motivo” como: Prorrogação de Acessos;
+III.	Informe a nova “Data de Desligamento” e clique em “Salvar 
+ 
+                      II-ZBO104 – Administração de Contas de Sistema
+•	A CENTRAL DE SERVIÇOS executa prorrogação apenas de REDE
+•	O time N1-ACESSOS SAP realiza a prorrogação do SAP-SAP ECC CORPORATIVO (SOLMAN/GRC)
+  
+      II-REVOGAÇÃO DE ACESSO DE TERCEIRO 
+Há três situações de revogação de acesso:
+a.	O gestor responde o e-mail solicitando a revogação do acesso de imediato.
+b.	O gestor responde o e-mail solicitando a revogação do acesso programada para a data fim informada.
+c.	Caso não haja retorno do gestor, neste período, o sistema SAP JOB revoga os acessos de forma automática para os demais sistemas que usuário possui cadastrado na ZBO104.
+•	Para Inativar apenas 1 sistema/ambiente da ZBO104 e não o user de rede AD, deve ser feito manualmente e não usar ZBO127.
+•	A ZBO127 inativa automaticamente o SAP e o AD
+•	Caso o SAP não seja inativado automaticamente, deve realizar manualmente na ZBO104
+•	Toda revogação deve possuir a evidência da ZBO104 mostrando Rede e SAP inativos
+•	Não revogar RDV/Paytrack, Docnix, Dynamics e etc, quando a ZBO127 é realizada, o JOB automaticamente abre chamados e direciona para os times que os revogarão. 
+Para registrar o motivo da revogação de acessos, realize os seguintes passos:
+1.	Realize a comparação do gestor que respondeu o e-mail com o gestor cadastrado na ZBO103 e siga as orientações abaixo:
+2.	Caso seja o mesmo gestor, prossiga com o passo 3.2.2
+3.	Caso sejam gestores diferentes faça:
+I.	Abra chamado relacionado para Correção de dados cadastrais
+II.	Realize a alteração do gestor imediato responsável pela resposta do e-mail.
+III.	Prossiga o atendimento da solicitação conforme passo 3.2.2
+1.	
+1.	
+1.	Anexe o e-mail do SAP JOB;
+2.	EQUIPE: N1- OUTROS
+3.	Classifique o chamado: - Prorrogação/Revogação de Acesso de Terceiro;
+4.	Na aba Especificação preencha no atributo “Nome do Serviço” o valor “Revogação”.
+Para o item "b", selecione a flag “Revogação programada”, na ZBO103, para bloquear o envio de e-mail do SAP JOB para o gestor até a data fim do contrato.
+Acesse a transação ZBO103 e clique em “Alterar” através do botão   
+I.	Selecione a flag “Revogação Programada”;
+II.	Clique em “Salvar”   .
+             
+Para os itens "b" e "c", a revogação dos acessos ocorrerá automaticamente, um dia após a data de desligamento.
+Para esclarecimento de dúvidas quanto à operação da ZBO127, acessar a IT- ZBO127_Inativação de usuário pelo RH.
+Sistemas revogados automaticamente pelo JOB da ZBO127 IT - ZBO104 _ Ativar e inativar conta de usuário de sistema
+ Anexos
+ 
+Não há anexo.
+ 
+IT- INSTRUÇÃO DE TRABALHO
+CS- SAP PORTAL – DESBLOQUEIO DE USUÁRIO
+ 
+Introdução / Pré-requisitos para execução da IT 
+ 
+Esta instrução de trabalho tem como objetivo orientar os analistas no processo de desbloqueio de usuário no sistema SAP e Portal SAP.
+1.1         Pré-requisitos:
+ 
+1.	
+a.	Nome completo do usuário;
+b.	Login do usuário nos sistemas SAP e Portal SAP;
+c.	Acesso ao SAP Solution Manager;
+d.	Acesso ao Portal SAP;
+e.	Chamado deve ser solicitado/registrado pelo próprio usuário ou pelo gestor imediato. 
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+ 
+Referências
+ 
+Não há referências.
+ 
+Descrição das Atividades
+ 
+ 
+Para desbloquear acesso do usuário no sistema SAP e Portal SAP, siga os passos abaixo:
+ 
+1.	Para usuários terceiros, caso a solicitação seja registrada pelo gestor imediato, é necessário seguir os passos abaixo:
+ 
+Realize a comparação do gestor que respondeu o e-mail com o gestor cadastrado na transação ZBO103 e siga orientações abaixo:
+1.	Caso seja o mesmo gestor, prossiga com o passo 3.2.
+2.	Caso sejam gestores diferentes, faça:
+I.	Abra chamado relacionado para Correção de dados cadastrais
+II.	Realize a alteração do gestor responsável pela abertura do chamado.
+III.	Prossiga o atendimento da solicitação conforme passo 3.2.
+Observação: Deve ser considerado Gestor imediato para terceiro: Coordenador, Gerente e Diretor.
+ Acesse o sistema SAP, no ambiente 06) SAP Solution Manager:
+ Digite a transação “SU01” e tecle “Enter”:
+ Clique no matchcode  :
+ 
+Informe o nome do usuário e clique no botão  ou tecle “Enter” para realizar a Busca.
+ 
+Selecione o usuário e clique no botão ou tecle “Enter”.
+Em seguida, clique no botão  para realizar o desbloqueio:
+Clique no botão . 
+Informe o número do chamado e clique em  ou tecle “Enter”.
+Para desbloquear acesso no SAP Portal é necessário acessar o endereço do ambiente desejado, informe usuário, senha e clique em “Logon”:
+ 
+
+ 
+                3.10.1 Endereços do SAP Portal:
+ 
+a.	Ambiente de Produção: https://xxxxxxxxxxxxxx
+b.	Ambiente de desenvolvimento: https://xxxxxxxxxxxxxx
+c.	    Ambiente de qualidade: https://xxxxxxxxxxxxxx
+ 
+ 
+1.	Selecione a aba “Administração de Usuário”, informe o usuário que deseja realizar desbloqueio e tecle “Enter”.
+
+ 
+3.12       Selecione o usuário, em “Detalhes para Usuário” clique na aba “Informações sobre a conta” e certifique que o campo “Senha bloqueada” está selecionado. Clique em “Modificar”:
+ 
+ 
+ 
+ 
+Clique na aba “Informações gerais”, informe a senha nos campos “Definir senha” e “Confirmar senha” e clique em “Gravar”:
+Certifique que o campo “Senha bloqueada”, na aba “Informações sobre a conta” não está selecionado.
+ 
+ 
+Anexos
+ 
+Não há anexos.
+
+INSTRUÇÃO DE TRABALHO (IT)
+Criação de Perfil no SISTEMA Y
+ 
+1. Introdução / Pré-requisitos para execução da IT
+ 
+Esta instrução de trabalho descreve a atividade de Troca de perfil de Usuário no SISTEMA Y.
+ 
+1.	
+1.	Pré-requisitos:
+•	Ambiente (DEV, QA, PROD)
+•	Nome do perfil que deseja criar;
+•	Tipo de Acesso que o perfil deverá ter;
+•	Aval da área do XXX (pesquisas com consumidor). Responsáveis:
+•	XXXXXX (XXXX@XXXX)
+1.1	  Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+2. Referência
+ 
+ 
+•	PROCEDIMENTO: 
+ 
+3. Descrição das Atividades
+ 
+•	Acesse o browser de acordo com o ambiente solicitado:
+•	(Desenvolvimento);
+•	(Homologação);
+•	(Produção).
+ 
+•	Informe o e-mail corporativo e clique em "Avançar".
+ 
+3.2          Execute os seguintes passos:
+•	Clique no botão  > "Configurações" > "Segurança", conforme demonstrado abaixo:
+ 
+ 
+•	Clique em "Direitos de Acesso".
+ 
+ 
+•	Clique no botão “Novo”
+ 
+•	Preencha o campo “Nome da Função” com o valor informado nos pré-requisitos. No campo “Unidade de Negócio”, o valor deverá ser “GESTAO_AMBIENTE”
+ 
+•	Encontrar nas abas abaixo as entidades que o novo perfil terá acesso, de acordo com os pré-requisitos e selecionar a ação do perfil para aquela entidade. Clique em “Salvar e Fechar”
+ 
+ 
+3.3          Classificação do chamado: - Criação de Perfil no SISTEMA Y.
+ 
+4. Anexos
+ 
+ 
+Não há anexos.
+ 
+INSTRUÇÃO DE TRABALHO (IT)
+SISTEMA Y - Alteração de Perfil
+ 
+ 
+1.Introdução / Pré-requisitos para execução da IT
+Este documento estabelece o procedimento que os analistas de acessos deverão seguir para tratativa da solicitação de alteração de perfil no sistema RAS.
+ 
+1.	
+1.	      Pré-requisito:
+a.	Grupo a ser alterado;
+b.	Tipo de alteração
+c.	Chamado deve ser aberto ou possuir o aval do coordenador da área:
+- XXXX
+- XXXX
+  Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+ 
+2. Referência
+Não há referências.
+ 
+ 
+3. Descrição das atividades
+Para alterar perfil de um usuário deve-se acessar o sistema pelo seguinte endereço:
+3.1. Após digitar o endereço acima no browser do seu navegador aparecerá a imagem abaixo, onde será necessário inserir o seu login e a senha.
+ 
+ 
+ 
+Observação: O acesso ao sistema somente é possível no navegador Internet Explorer.
+ 
+3.2 Para Gerenciar as Permissões do grupo:
+1.	Acesse a aba Segurança, clique em “Grupos de Usuários” e no POP de ações do ítem selecione a opção “Gerenciar Permissões”:
+ 
+
+ 
+ 
+2. Defina as Permissões do grupo por meio dos lists apresentados na interface, cada list representa o acesso a um determinado recurso/funcionalidade do sistema.
+
+ 
+As funcionalidades e seus respectivos níveis de acesso são detalhados na Tabela 10.
+ 
+3. Após definir todas as Permissões desejadas:
+a) Clique em Salvar para gravar as Permissões definidas no Grupo em uso;
+b) Clique em Cancelar para desistir da operação sem salvar nenhum dado.
+ 
+A tabela 10 lista as Permissões existentes no SISTEMA Ye suas respectivas opções de acesso.
+ 
+Permissão	Opções
+Petição PPM	Gerenciar: Permite Atualização.
+Nenhuma: Não permite Gerenciamento.
+Petição de Preço	Gerenciar: Permite Atualização.
+Nenhuma: Não permite Gerenciamento.
+CheckList	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Modelos de Petição ou Checklists.
+Visualizar: Acesso apenas para visualização de Checklists.
+Nenhuma: Aba “Checklist” não é exibida.
+Processos	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Processos e de todos os conceitos relacionados, como Petições e Pendências.
+Visualizar: Acesso apenas para visualização de informações de Processos.
+Nenhuma: Aba “Processo” não é exibida.
+Medicamentos	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Medicamentos e de todos os conceitos relacionados, como Apresentações e Bulas.
+Visualizar: Acesso apenas para visualização de informações de Medicamentos.
+Nenhuma: Aba “Medicamentos” não é exibida.
+Cosméticos	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Cosméticos e de todos os conceitos relacionados, como Apresentações e Fórmulas.
+Visualizar: Acesso apenas para visualização de informações de Cosméticos.
+Nenhuma: Aba “Cosméticos” não é exibida.
+Alimentos	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Alimentos e de todos os conceitos relacionados, como Documentos e Fórmulas.
+Visualizar: Acesso apenas para visualização de informações de Alimentos.
+Nenhuma: Aba “Alimentos” não é exibida.
+Correlatos	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Correlatos.
+Visualizar: Acesso apenas para visualização de informações de Correlatos.
+Nenhuma: Aba “Correlatos” não é exibida.
+Fórmulas	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Fórmulas e seus Componentes. Aplica-se para qualquer tipo de Produto.
+Visualizar: Acesso apenas para visualização de informações de Fórmulas.
+Nenhuma: Não são exibidos os links de Gerenciamento de Fórmulas nos Assistentes e Pop de Ações, bloqueando o acesso a qualquer tipo de informação sobre Fórmulas cadastradas no RAS.
+Info. Quantidade da
+Fórmula	Não Visualizar Quantidade de Fórmula: Exibe Fórmulas sem mostrar, entretanto, as quantidades de cada substância que a compõe.
+Visualizar Quantidade de Fórmula: Exibe Fórmulas incluindo as quantidades de cada substância que a compõe.
+Fábricas	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Fábricas.
+Visualizar: Acesso apenas para visualização de informações de Fábricas.
+Nenhuma: Seção Fábricas da aba parceiros e opções para gerenciamento de Fábricas em POPs de Ação e Assistentes não são exibidas.
+Centros de Estudos	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Centros de Estudos.
+Visualizar: Acesso apenas para visualização de informações de Centros de Estudos.
+Nenhuma: Seção Centros de Estudos da aba parceiros e opções para gerenciamento de Centros de Estudos em POPs de Ação e Assistentes não são exibidas.
+Gerencias	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Gerencias.
+Visualizar: Acesso apenas para visualização de informações de Gerencias.
+Nenhuma: Seção Gerencia da aba parceiros e opções para gerenciamento de Gerencia em POPs de Ação e Assistentes não são exibidas.
+Documentos	Gerenciar: Permite a criação, associação, edição e remoção de Documentos.
+Visualizar: Permite apenas a visualização dos Documentos existentes no repositório do RAS.
+Nenhuma: Aba “Documentos” não é exibida, assim como as tabelas de Documentos associados nos mais variados Conceitos do Sistema. Também não há acesso à opção de Criar e Associar Documentos nos Assistentes. Vale ressaltar que Bulas XML são Documentos e, portanto sujeitas ao mesmo tipo de controle.
+Documentos Confidenciais	Visualizar Documentos Confidenciais: Permite visualizar documentos identificados como confidenciais.
+Não Visualizar Documentos Confidenciais: Não Permite visualizar documentos identificados como confidenciais.
+Versões do Documento	Visualizar Apenas Última Versão Final: Mostra apenas a versão final mais recente de um Documento. Ao editar um documento (caso Usuário tenha permissão para isso), não será exibida a tabela com o histórico do Documento sendo editado.
+Visualizar todas as Versões de Documentos: Mostra sempre a versão mais recente de um Documento, seja ela final ou não. Ao editar um documento (caso Usuário tenha permissão para isso), será exibida a tabela com o histórico de todas as versões do Documento sendo editado.
+Configuração	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de todos os Cadastros Básicos do RAS.
+Visualizar: Acesso apenas para visualização dos dados dos Cadastros Básicos.
+Nenhuma: Aba “Configuração” não é exibida.
+Administração	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Usuários, Grupos e Permissões.
+Visualizar: Acesso apenas para visualização dos dados de controle de acesso do RAS.
+Nenhuma: Aba “Segurança” não é exibida
+Pendências	Gerenciar Próprias: Usuário visualiza e gerencia apenas as suas próprias Pendências (tanto Recebidas como Enviadas).
+Gerenciar de Todos: Além de visualizar e gerenciar suas próprias Pendências, é possível acessar todas as Pendências gerenciadas pelo RAS, independentemente de quem as criou ou com quem estão.
+Trilha de Auditoria	Visualizar Trilha de Auditoria: Permite que o Usuário veja a Trilha de Auditoria de qualquer Conceito do RAS.
+Não Visualizar Trilha de Auditoria: Opção “Trilha de Auditoria” não estará disponível nos POPs e ação do RAS.
+Relatório de Petições	Nenhuma: Box do Relatório não é exibido ao Clicar na Aba “relatórios”.
+Relatório Simples: Acesso apenas para Geração de Relatórios Tabulares e sem acesso aos campos com indicadores.
+Relatório Completo: Acesso a todos os tipos de Relatório.
+Relatório de Produtos	Nenhuma: Box do Relatório não é exibido ao Clicar na Aba “relatórios”.
+Relatório Simples: Acesso apenas para Geração de Relatórios Tabulares e sem acesso aos campos com indicadores.
+Relatório Completo: Acesso a todos os tipos de Relatório.
+Relatório de Apresentações	Nenhuma: Box do Relatório não é exibido ao Clicar na Aba
+“relatórios”.
+Relatório Simples: Acesso apenas para Geração de Relatórios Tabulares e sem acesso aos campos com indicadores.
+Relatório Completo: Acesso a todos os tipos de Relatório.
+Relatório de Processos	Nenhuma: Box do Relatório não é exibido ao Clicar na Aba
+“relatórios”.
+Relatório Simples: Acesso apenas para Geração de Relatórios
+Tabulares e sem acesso aos campos com indicadores.
+Relatório Completo: Acesso a todos os tipos de Relatório.
+Relatório de Pendências	Nenhuma: Box do Relatório não é exibido ao Clicar na Aba
+“relatórios”.
+Relatório Simples: Acesso apenas para Geração de Relatórios
+Tabulares e sem acesso aos campos com indicadores.
+Relatório Completo: Acesso a todos os tipos de Relatório.
+Relatório de Estudos	Nenhuma: Box do Relatório não é exibido ao Clicar na Aba
+“relatórios”.
+Visualizar: Permite a geração de Relatórios de Estudos.
+CRC	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de CRC.
+Visualizar: Acesso apenas para visualização de informações de CRC.
+Nenhuma: Aba “CRC” não é exibida.
+Relatório CRC	Nenhuma: Box do Relatório não é exibido ao Clicar na Aba
+“relatórios”.
+Relatório Simples: Acesso apenas para Geração de Relatórios
+Tabulares e sem acesso aos campos com indicadores.
+Relatório Completo: Acesso a todos os tipos de Relatório.
+Acessórios	Gerenciar: Permite a inclusão, exclusão, alteração e visualização.
+Visualizar: Acesso apenas para visualização dos dados.
+Nenhuma: Sub Aba não é exibida.
+HMP	Gerenciar: Permite a inclusão, exclusão, alteração e visualização.
+Visualizar: Acesso apenas para visualização dos dados.
+Nenhuma: Sub Aba não é exibida.
+Datas Planejadas da Petição	Gerenciar: Permite atualizar o campo
+Não Gerenciar: Não Permite atualizar o campo. Esta opção sobrepõe a configuração “Gerenciar” especificas da data. Por exemplo, se esta configuração estiver como “não gerenciar” e a configuração da data de recebimento do último documento estiver como Gerenciar, somente a data real estará disponível para informação.
+Data Recebimento Último Documento (Petição)	Gerenciar: Permite atualizar o campo planejado e real e exibir acuidade no relatório de petição.
+Não Gerenciar: Não Permite atualizar o campo. Se a opção for não gerenciar, as datas planejada e real não serão exibidas, sobrepondo a configuração “Datas Planejadas da Petição”.
+Data Solicitação Documentação
+(Petição)	Gerenciar: Permite atualizar o campo planejado e real e exibir acuidade no relatório de petição.
+Não Gerenciar: Não Permite atualizar o campo. Se a opção for não gerenciar, as datas planejada e real não serão exibidas, sobrepondo a configuração “Datas Planejadas da Petição”.
+Data Recebimento Documentação (Petição)	Gerenciar: Permite atualizar o campo e exibir acuidade no relatório de petição.
+Não Gerenciar: Não Permite atualizar o campo. Se a opção for não gerenciar, as datas planejada e real não serão exibidas, sobrepondo a configuração “Datas Planejadas da Petição”.
+Data de Implementação
+(Petição)	Gerenciar: Permite atualizar o campo.
+Não Gerenciar: Não Permite atualizar o campo.
+Política de Senha	Gerenciar: Permite atualizar as politicas de Senha.
+Não gerenciar: Não permite atualizar as politicas.
+Relatório de Fábricas	Nenhuma: Box do Relatório não é exibido ao Clicar na Aba
+“relatórios”.
+Relatório Simples: Acesso apenas para Geração de Relatórios
+Tabulares e sem acesso aos campos com indicadores.
+Relatório Completo: Acesso a todos os campos e tipos de Relatório.
+Datas de Registro do
+Produto	Gerenciar: Permite atualizar os campos "data do primeiro registro" e "vencimento do registro". Permite atualizar o alerta e dados do alerta.
+Não Gerenciar: Não Permite atualizar os campos "data do primeiro registro" e "vencimento do registro", Permite visualizar o ícone editar alerta e visualizar os dados do alerta.
+Insumo	Gerenciar: Permite a inclusão, exclusão, alteração e visuazalição de Insumos e de todos os conceitos relacionados, como Documentos e Apresentações.
+Visualizar: Acesso apenas para visualização de informações de Insumos.
+Nenhuma: Aba “Insumos” não é exibida.
+Busca e Atualização Simples de Protocolo	Sim: Permitir acesso ao SISTEMA Ypara usuários com permissão restrita a protocolos, somente na ação “Atualizar” alguns campos.
+Não: Funcionalidade “Acesso Restrito a Protocolos” não tratada no sistema.
+ 
+Observação 1: Os campos Controlados possuem as opções Nenhuma, Visualizar, Gerenciar com Controle e Gerenciar sem Controle. A opção de Gerenciar com Controle permite que o sistema apresente a tela de registro de histórico de alteração do campo, porém se o nível de acesso do campo controlado for Gerenciar sem Controle o campo não registrará as ações ocorridas no relatório de revisão de trilha de auditoria.
+ 
+Observação 2: Campos obrigatórios não possuem o nível de acesso nenhum.
+ 
+3.3. Classificação:
+ 
+Alteração de Perfil no SYSTEMA Y
+ 
+ 
+4. Anexo
+ 
+  INSTRUÇÃO DE TRABALHO (IT)
+ 
+Inativação de Acesso de Usuário no SISTEMA Y
+ 
+ 
+1.      Introdução / Pré-requisitos para execução da IT
+Esta Instrução de Trabalho tem por objetivo apresentar o processo de Inativação de Acesso de Usuário no SISTEMA Y e orientar todos os envolvidos no serviço para o desenvolvimento de suas atividades.
+As atividades aqui descritas envolvem as equipes Central de Serviços e Gestão de Acessos.
+ Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+2.      Referências
+ 
+3.      Descrição das Atividades
+Central de Serviços - CS
+3.1          Pré-requisitos: 
+•	Caso a inativação de acesso não seja proveniente de desligamento de colaborador.
+o	O solicitante deve ter o e-mail padrão gerado pela planilha Template Solicitação de Serviços SYSTEMA Y e autorizado pelo Gerente Executivo, conforme exemplo abaixo. Caso necessário, encaminhar para o solicitante o link a seguir. Caso a inativação de acesso seja proveniente de desligamento de colaborador.
+o	Abertura de chamado de desligamento de colaborador.
+ 
+3.2          Atividades: 
+•	Validar se o e-mail padrão está anexado ao chamado contendo a aprovação do Gerente Executivo, em casos em que a inativação de acesso não seja proveniente de desligamento de colaborador.
+•	Com todos os pré-requisitos preenchidos, o chamado deverá ser classificado com - Inativação de Acesso a Usuário no SISTEMA Y e enviar para o grupo solucionador N1 - ACESSOS.
+Obs.: Faltando algum pré-requisito, o chamado deverá ser cancelado com a seguinte informação: Esta solicitação está sendo cancelada por não conter os pré- requisitos necessários para seu atendimento. Para solicitações de Inativação de Acesso de Usuário no SISTEMA Y, acessar a planilha Template Solicitação de Serviços SYSTEMA Y, seguindo todas as orientações contidas na mesma.
+ 
+Gestão de Acessos - N1 - ACESSOS
+3.3          Pré-requisitos:
+•	Usuário com perfil administrador de acessos no Módulo QEF do SISTEMA Y.
+ 
+3.4          Atividades:
+•	Acessar o Módulo QEF do SISTEMA Y pelo link  Figura 1: Login no SISTEMA Y QEF.
+ 
+ 
+•	Selecionar o checkbox Windows Authentication e então clicar em LOG IN. O Sistema utilizará as credenciais do usuário do computador. A página abaixo será exibida.
+
+Figura 2: Página Inicial do SISTEMA Y QEF.
+ 
+•	Selecionar na guia SECTIONS, a seção Users and Groups. 
+•	Figura 3: Selecionar Users and Group”.
+ 
+•	Selecionar Users.
+Figura 4: Selecionar Users.
+ 
+•	Filtrar o usuário a ser inativado, conforme Figura 5.
+Figura 5: Filtro de Usuário.
+ 
+•	Clicar em Member Of. Excluir o(s) grupo(s) vinculado(s) ao usuário, exceto All Users.
+•	
+Figura 6: Inativar Licença de Usuário.
+ 
+•	Confirmar a alteração do usuário no pop-up clicando em OK.
+ 
+Figura 7: Confirmação de Inativação do Usuário.
+ 
+ 
+•	Em casos de inativação(ões) de licença(s) de acesso(s), ou seja, retirada dos grupos “GrpQEP”, “GrpQIS”, “GrpQLM_QEA” e “GrpQLM_QEM”, seguir passos abaixo, caso contrário,
+o	Selecionar na guia SECTIONS, a seção Licenses. 
+Figura 8: Selecionar “Licenses”.
+ 
+Selecionar a(s) licença(s) correspondente(s) ao(s) acesso(s) inativado(s). 
+
+o	Figura 9: Selecionar Licença(s).
+ 
+o	Clicar no botão de refresh conforme destacado na Figura 10. 
+Figura 10: Refresh da Licença.
+ 
+o	Confirmar a atualização da licença no pop-up clicando em OK.
+ 
+Figura 11: Confirmação de Atualização de Licença.
+ 
+o	Abrir o Anexo II - Controle de Licenças do SISTEMA Y e liberar a(s) licença(s) na coluna Em Uso do Gerente Executivo do usuário para cada tipo de licença inativada.
+o	Alterar o status do acesso ao SISTEMA Y do usuário na ZBO104 para “Inativo”.
+•	Concluir o chamado de inativação de acesso.
+4.      Anexos
+Não há Anexos.
+INSTRUÇÃO DE TRABALHO (IT)
+ALTERAÇÃO DE PERFIL NO SISTEMA Y
+ 
+1. Introdução / Pré-requisitos para execução da IT
+Este documento estabelece os procedimentos que a Central de Serviço deverá seguir para abertura de chamado de alteração de perfil de usuário no SYSTEMA Y.
+1.1 Pré-requisitos:
+a) Nome Completo do colaborador;
+b) Usuário de acesso ao sistema;
+c) Ambiente que deseja alteração (QAS e PRD);
+d) Motivo da alteração de perfil;
+e) Grupo de acesso ou usuário cópia.
+f) Autorização do gerente imediato do colaborador.
+ Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+
+2. Referências
+· GRUPO DESIGNADO: Refere-se a fila de atendimento para determinada solicitação (N1-ACESSOS)
+ 
+3. Descrição das Atividades
+Acesse o sistema via Internet Explorer utilizando o endereço ambiente de DESENVOLVIMENTO 
+PRODUÇÃO.
+3.1. Faça logon utilizando o usuário e senha de ADMINISTRADOR para acesso ao sistema.
+ 
+ 
+3.2. Clique em Configurações:
+ 
+ 
+3.3. Na tela que abriu, clique em Usuários:
+ 
+ 
+ 
+ 
+3.4. Na tela que abriu, clique sobre o usuário que deseja alterar o perfil.
+ 
+ 
+ 
+3.5. Informe o tipo de perfil que o usuário terá, de acordo com as opções existentes e clique em salvar.
+ 
+ 
+ 
+ 
+4. Anexos
+Não há anexos.
+
+INSTRUÇÃO DE TRABALHO (IT)
+CRIAÇÃO DE USUÁRIO DO SISTEMA Y
+  1.      Introdução / Pré-requisitos para execução da IT
+Esta Instrução de Trabalho visa orientar na atividade de criação de acesso do usuário no SISTEMA Y.
+  Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+1.1 Pré-requisitos:
+a.	Nome completo do usuário;
+b.	E-mail corporativo do usuário;
+c.	Chamado deve ser aberto com o aval do Gestor da área.
+2.      Referências
+Não há referências.
+3.      Descrição das Atividades
+Para criar um usuário no SISTEMA Y deve-se acessar o sistema pelo ícone de atalho na área de trabalho.
+3.1 Após acessar o sistema aparecerá a imagem abaixo, onde será necessário inserir o seu login e a  senha.
+
+3.2 Para a criação de um novo usuário:
+3.2.1 Clique em “Usuários”
+
+3.2.2 Na tela “Cadastro de Usuários” clique em “Incluir”.
+
+3.2.3 Na tela de “Cadastro de Usuários” digite os dados do novo usuário.
+
+3.2.4 Digite os dados do novo Usuário, definido pelos campos apresentados:
+Campo	Descrição
+*Login	Login do usuário
+*Senha	Senha do usuário
+*Confirmação de senha	Confirmar senha do usuário
+*Nome	Nome completo do usuário
+*E-mail	E-mail completo do usuário
+*Perfil	Marque a opção “Operador-Operador”, caso o usuário seja administrador marque “Administrador-Administrador”.
+*Bloqueado	Marque a opção “Não”.
+* Campos Obrigatórios
+ 
+3.2.5 Clique em “Salvar” para gravar os dados do Usuário sendo criado.
+ 
+4.      Anexos
+•	Não há anexos.
+
+
+INSTRUÇÃO DE TRABALHO (IT)
+ZBO127_ INATIVAÇÃO DE USUÁRIO PELO RH
+ 
+1. Introdução / Pré-requisitos para execução da IT
+Esta instrução de trabalho visa orientar o analista/assistente a realizar a inativação de colaborador no cadastro único de usuários do SAP.
+O RH Operacional realiza inativação de acesso para colaborador das categorias Funcionário e Terceiro.
+A Central de Serviços realiza inativação de acesso para colaborador da categoria Terceiro.
+1.1 Pré-requisitos:
+a) Nome de identidade e e-mail autorizando a revogação (Recebido na caixa “suporte.A EMPRESA X ”).
+b) Acesso à transação ZBO127.
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+
+ 
+2. Referências
+Não há referencias.
+ 
+3. Descrição das Atividades
+Passo 01: Realizar abertura do chamado no sistema conforme print abaixo:
+Categoria: Acesso > Inativação de Usuário > Sintoma: Desligamento de Terceiro.
+ 
+Motivo da Inativação:
+- Revogação solicitada via e-mail por XXXXXX
+Descrição:
+- -Sr(a). xxx, solicita revogação de acesso para: xxx
+
+Passo 02: Abrir o SAP Logon e selecionar o sistema “02) SAP ERP Produção”.
+Passo 03: Em Mandante digite 000 > Digite seu usuário e senha > “Enter”.
+Passo 04: Digite a transação “ZBO127” Tecle “Enter”. 
+Passo 05: Digite o número da identidade no campo “identidade” e tecle enter. Caso não saiba o número da identidade, clique no mechcode   do campo “identidade”.
+
+05.1 - Digite o Nome do usuário no campo “Nome da Identidade” ou componha uma busca com quantos campos for necessário e clique no botão avançar 
+05.2- Verifique o Nome da Identidade e clique no botão avançar  .
+Passo 06: Após encontrar o número da identidade tecle” enter”.
+ Se o usuário estiver ativo:
+Passo 07: Clique no botão inativar .
+Passo 08: Insira a Data de desligamento do usuário no modelo DD.MM.AAAA e se desejável descreva o Motivo do desligamento.
+Passo 09: Após realizar todas as alterações, clique no botão salvar  .
+Passo 10: Aparecerá um pop up de Confirmação de que foi encaminhada a solicitação de serviço à central, clique em 
+Obs: Caso o colaborador tenha acesso a sistemas e equipamentos alocados serão abertos chamados de forma automática para revogação deles.
+4. Anexos
+Não há anexos.
+ 
+INSTRUÇÃO DE TRABALHO (IT)
+SYSTEMA Y - CRIAÇÃO DE USUÁRIO
+1. Introdução / Pré-requisitos para execução da IT
+Este documento estabelece o procedimento que os analistas de acessos deverão seguir para criação de usuário no SISTEMA Y.
+1.1 Pré-requisitos:
+a) Nome Completo do usuário;
+b) E-mail corporativo do usuário;
+c) Login de rede do usuário;
+d) Perfil a ser atribuído ou usuário cópia;
+e) Ambiente que deseja acesso (DEV e PRD);
+f) Aval do Gerente de Compliance Fiscal:
+g) Informar o Módulo desejado (Administração, ECF, EFD Reinf);
+h) Acesso administrativo ao SYSTEMA Y.
+Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+
+2. Referências
+· Abertura de chamado - Central de Serviços
+3. Descrição das Atividades
+Acesse o sistema via Internet Explorer utilizando o endereço HTTPS://XXXXXX ambiente de DESENVOLVIMENTO. Faça logon utilizando o usuário e senha de acesso. Também pode ser selecionado o idioma, em caso do não preenchimento será considerado idioma selecionado na criação do usuário. 
+3.1. Clique em Administração:
+3.2. Acesse o menu Segurança> Usuário:
+Para criar um novo usuário clique em “Segurança” e depois “Usuário”, conforme figura abaixo:
+3.3. Realize a operação de cadastro:
+Clique em “Executar Consulta”, e lista de usuários criadas será mostrado.
+Clique em “Novo”, conforme figura abaixo.
+3.4. Defina os seguintes campos:
+Informe os campos, conforme exemplo na figura abaixo:
+NOME DO CAMPO	DADOS A PREENCHER
+Nome	Nome completo do usuário
+Usuário	Nome de acesso que possibilita entrar no sistema
+E-Mail	E-mail a partir do qual o usuário poderá receber mensagens do sistema.
+Também é utilizado em casos de esquecimento de senha, para enviar uma senha provisória ao usuário.
+Atributos	Senha nunca expira: A senha cadastrada para o usuário é definitiva e não precisará ser trocada após um determinado período de tempo, cuja quantidade é estipulada por um usuário administrador do sistema na Configuração de Segurança. Esta opção é dependente do atributo "Não pode alterar senha", ou seja, se um estiver selecionado é necessário marcar o outro também.
+Altera senha no próximo logon: Força o usuário a trocar sua senha na próxima tentativa de Logon no sistema. É uma funcionalidade padrão no sistema, isto é, para todo usuário recentemente cadastrado, haverá necessidade de alteração de senha no primeiro Logon. Este campo não pode ser marcado se o campo "Não pode alterar senha" estiver ativo.
+Não pode alterar senha: Se ativado, a alteração de senha pelo usuário não será permitida. Ou seja, o usuário não poderá utilizar a opção “Alterar Senha” encontrada na tela de Logon do sistema. Esta opção é dependente do atributo "Senha nunca expira", ou seja, se um estiver selecionado é necessário marcar o outro também.
+Acesso simultâneo: O usuário pode conectar-se ao sistema em diferentes máquinas ao mesmo tempo.
+Status	Indica a situação do usuário:
+- Se a opção Inativa estiver marcada: ele não possui mais acesso ao sistema, ou seja, o usuário encontra-se bloqueado.
+- Se a opção Ativa estiver marcada: a conta do usuário está ativa e ele pode acessá-la.
+Localidade	Indica o idioma de acordo com a localidade do usuário.
+Profile de Segurança	Campo para seleção do perfil de segurança a que o usuário deve ser vinculado. O Perfil de Segurança é vinculado a uma ou mais Role, a qual contém as permissões de acesso às funcionalidades do sistema, isto é, ao conjunto de direitos/ações/restrições a qual o usuário estará associado.
+Tipo do Usuário	Neste campo é escolhido o Tipo de usuário para o qual são válidas cada definição:
+- Super User: possui todas as permissões dentro do sistema, sem restrições. Quando um usuário do tipo Super User logar no sistema não será realizada nenhuma validação de direito de acesso as funcionalidades.
+- Common User: usuário de acesso ao sistema. Suas possibilidades de uso e restrições dentro do sistema dependem das configurações de perfil que definem seu nível de acesso.
+- Interface User: exclusivamente responsável pela execução das interfaces do sistema.
+ 
+3.5. Salve o Cadastro. Clique em “Salvar”. 
+3.6. Redefinir chave de segurança “Salvar” e “Sair”.
+NOME DO CAMPO	DADOS A PREENCHER
+Usuário	Nome do usuário para o qual se deseja redefinir a senha.
+Nova Senha	Campo para inserir um novo código de acesso ao sistema para o usuário. Essa senha deve seguir as regras definidas na Configuração de segurança. Exceto se essa redefinição for feita pelo administrador do sistema.
+Confirmar Senha	Campo para confirmação da nova senha. Recurso de segurança.
+Aconselhamos realizar a mudança de senha inicialmente criada. Acesse o portal com usuário criado e a nova senha. Ao abrir a tela de “alterar Senha” Informe os dados solicitados e clique em salvar. O sistema fará a alteração.
+Conforme política de senhas da companhia, a mesma deve possuir 08 caracteres sendo obrigatório:
+• Letras maiúsculas;
+• Letras minúsculas;
+• Números;
+• Caracteres especiais.
+4. Anexos
+· Não há anexos.
+
+
+INSTRUÇÃO DE TRABALHO
+INFRA - SYSTEMA Y - LIBERAÇÃO DE ACESSO SYSTEMA Y
+
+  1.	Introdução / Pré-requisitos para execução da IT
+
+Liberação de acesso ao SYSTEMA Y
+
+1.1	Pré-requisitos:
+
+	Aval do Gerente responsável com CDC.
+Após central de serviços coletar os pré-quesitos irá recategorizar o chamado para fila do time de “X”.
+
+Categoria: A
+Subcategoria: B
+Sintoma: C
+Qualificação Sintoma: D
+  2.	Referências
+
+Não há referências.
+
+  3.	Descrição das Atividades
+
+Procedimento de liberação de acesso ao SYSTEMA Y
+3.1	Validação de Licença, verificar se existe licença E5 publicada para colaborador (M365 XXXXXXX XXX) no Active Directory.
+	
+3.1.1	Incluir usuário no grupo de liberação da ferramenta Azure Virtual desktop (AVD) “G-XXXXXX- SYSTEMA Y”.
+
+
+
+
+
+
+
+
+3.1.2	Métodos de acesso.
+
+	Cliente Área de Trabalho do Windows (recomendado - 01):
+
+	Cliente Microsoft Store (recomendado - 02)
+
+	Cliente para área de trabalho MacOS.
+	Cliente WEB (recomendado somente em último caso por não apresentar total performance)
+
+
+  4.	Anexos
+
+Não há anexos.
+
+
+ 
+INSTRUÇÃO DE TRABALHO (IT) 
+SYSTEMA Y - Ativar, Inativar Acesso e transferir licenças
+
+Introdução / Pré-requisitos para execução da IT
+Esta instrução de trabalho orienta o passo a passo para ativar ou inativar acesso de usuário no SISTEMA Y
+
+1.1 Pré-requisitos para Ativação
+a) Nome do colaborador;
+b) Usuário do SISTEMA Y;
+c) Solicitar aval do keyuser xxxxxx ou xxxxxxxxx;
+ Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+1.2 Pré-requisitos para Inativação
+a) Nome do colaborador;
+b) Usuário do SISTEMA Y;
+c) Motivo da inativação do usuário;
+d) Solicitar aval do keyuser XXXXXXXXX ou XXXXXXXXXX;
+e) O RH ou gerente imediato (para colaborador terceiro) poderá solicitar a inativação do usuário sem necessidade do aval anexado.
+1.3 Pré-requisitos para Inativação com transferência de Licença
+a) Nome do colaborador;
+b) Usuário do SISTEMA Y que terá a licença removida;
+c) Usuário do SISTEMA Y que terá a licença atribuída;
+d) Solicitar aval do keyuser XXXXXX ou XXXXXXXXX;
+Referências
+Não há referências.
+
+Descrição das Atividades
+3.1 Ativar ou inativar acesso de usuário
+Para esse procedimento, o usuário está criado. Portanto, o mesmo pode ser ativado ou inativado seguindo os passos abaixo.
+Ao acessar o SISTEMA Y, selecione a opção Manage Users: 
+O sistema abrirá a tela de help desk, acessar com usuário e senha:  
+Será aberta a página de gerenciamento de usuário:  
+Selecione o usuário por uma das seguintes formas:
+1. Digite o usuário do SISTEMA Y e clique em “Apply Filter”;
+2. Selecione o usuário na tela de usuário: 
+ 
+3. Clicar em “Edit User”:O parâmetro que define um usuário como ativo ou não é o parâmetro Enabled¸ caso o mesmo esteja marcado o usuário está ativo, caso esteja desmarcado o usuário está inativo. 
+ 
+Anexos
+Não há anexos.
+
+IT - INSTRUÇÃO DE TRABALHO
+CS - SAP - ZBO103 ATUALIZAR DADOS DA BU
+Introdução
+Quando um colaborador DA EMPRESA X entrar em contato comunicado que agora seu e-mail deixará de ser DA EMPRESA X e se tornará DA EMPRESA X ou DA EMPRESA X(por exemplo). O analista N1 deve realizar as orientações descritas nessa IT.
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+Referências
+Palavras chaves: domínio, e-mail. ZBO103, AD, mudança no domínio.
+
+Descrição
+N1-Outros em posse dos requisitos, realiza a troca do E-mail na ZBO103, campo E-mail.
+3.1 Inicia a edição 
+3.2 edita o campo e-mail 
+3.3 Preenche o campo motivo, com o número do chamado e no campo Nr chamado colocar apenas o número da TASK. 
+3.4 Após alterado e colocado os dados, precisa gravar como apontado abaixo
+
+3.5 Evidencia a alteração na ZBO103 e AD dos campos de Email (General e Account) no chamado 
+Requisito da atividade: 
+•	Aval gerencial
+•	Motivo:
+•	De: user@xxxxxxxxx.com.br
+•	Para: user@yyyyyyyyyy.com.br
+ 
+Obs: Antes de concluir esse 1 chamado, abra um novo chamado e com as mesmas evidências e aval enviar para Equipe X para que realizem a alteração do novo e-mail no AD e informe o número desse 2° chamado no 1° chamado aberto para o concluir corretamente. 
+ 
+Anexos
+Sem anexos
+
+INSTRUÇÃO DE TRABALHO (IT) Troca de perfil de Usuário no Sistema Dynamics - Voluntários
+
+
+1. Introdução / Pré-requisitos para execução da IT
+Esta instrução de trabalho descreve a atividade de Troca de perfil de Usuário no SISTEMA Y.
+1.1 Pré-requisitos:
+· Ambiente que usuário deseja alterar acesso (DEV, QA, PROD):
+· Nome completo do usuário que terá o perfil alterado;
+· Login de rede do usuário que terá o perfil alterado;
+· Nome do perfil que deverá ser adicionado ao usuário;
+· Aval da área do A EMPRESA X (pesquisas com consumidor). Responsáveis:
+· XXXX (XXXX@XXXX.COM)
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistemas deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+2. Referências
+· PROCEDIMENTO:
+3. Descrição das Atividades
+Para acessar ao APLICATIVO de Voluntários:
+· Acesse o browser de acordo com o ambiente solicitado:
+· (Desenvolvimento);
+· (Homologação);
+· (Produção).
+ 
+· Informe o e-mail corporativo e clique em "Avançar".
+
+Execute os seguintes passos:
+
+· Clique no botão > "Configurações" > "Segurança", conforme demonstrado abaixo:
+ 
+· Clique em "Usuários".
+
+· Pesquise e selecione o usuário desejado. Confira a "Unidade de Negócios".
+
+NOTA: Caso o usuário acesse outros Aplicativos além de “Voluntários”, OBRIGATORIAMENTE este usuário deve ser mantido na Unidade de Negócio “A EMPRESA X”, do contrário não terá acesso aos registros desta unidade de negócio.
+· Para alterar os direitos de Acesso, clique em ‘Gerenciar Funções’ e selecione os itens de acordo com a nova função informada pelo usuário: 
+
+· Se função é “Gerente”, selecionar os itens abaixo:
+· [VOL] - Administração
+· [VOL] - APP 
+· [VOL] - Survey
+· Se função é “Coordenador”, selecionar os itens abaixo:
+· [VOL] - Administração
+· [VOL] - APP 
+· [VOL] - Survey
+· Se outras funções, selecionar os itens abaixo:
+· [VOL] - Perfil A
+· [VOL] - APP 
+ 
+· Mantenha o usuário selecionado e clique em "Mais Comandos" > "Abrir Caixa de Correio" para sua configuração. 
+· Configure os campos de "Método de Sincronização" conforme abaixo e clique em "Salvar" .
+
+ 
+Anexos
+Não há anexos.
+
+INSTRUÇÃO DE TRABALHO (IT) SYSTEMA Y  - Criação de Perfil
+
+
+1. Introdução / Pré-requisitos para execução da IT
+Este documento estabelece o procedimento que os analistas de acessos deverão seguir para tratativa da solicitação de criação de perfil no SISTEMA Y
+ 
+1.1 Pré-requisitos
+a) Nome do novo grupo;
+b) Planilha de acesso preenchida;
+c) Informar os colaboradores que terão acesso ao novo grupo;
+d) Chamado deve ser aberto ou possuir o aval do coordenador da área:
+· user@xxxxxxxxx.com.br
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao SISTEMA Y deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no SISTEMA Y será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no SISTEMA Y de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+ 
+2. Referências
+Não há referências.
+3. Descrição das Atividades
+Para criar perfil de um usuário deve-se acessar o SISTEMA Y pelo seguinte endereço: https://xxxxxx
+ 
+3.1. Após digitar o endereço acima no browser do seu navegador aparecerá a imagem abaixo, onde será necessário inserir o seu login e a senha.
+ 
+Observação: O acesso ao SISTEMA Y somente é possível no navegador Internet Explorer.
+ 
+3.2. Para adicionar um novo Grupo:
+ 
+1. Clique na Aba Segurança: 
+2. Utilizando o Assistente, clique em Grupos de Usuário: 
+3. A Home de Grupos de usuário será apresentada: 
+4. Selecione no assistente a opção criar grupo de usuário:
+5. Digite nome do Grupo, informado no chamado, no campo “Nome do Grupo”: 
+6. No campo “Não Relacionados” selecione os usuários que terão acesso a esse grupo, transfira-os para o campo “Relacionados”, através do botão , e clique em “Salvar e Gerenciar Permissões”: 
+7. Atribua as permissões no novo grupo e clique em “Salvar”.
+Observação: O SISTEMA Y não permite a criação de grupos de usuários com nome já existentes.
+ 
+3.3 Classificação: Criação de Perfil no SISTEMA Y
+ 
+Anexos
+ 
+INSTRUÇÃO DE TRABALHO SYSTEMA Y – Gestão de Acessos
+1. Introdução / Pré-requisitos para execução da IT
+Esta instrução de trabalho tem por objetivo descrever os processos de execução referente à gestão de acesso do usuário no sistema SISTEMA Y.
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistemas deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+2. Referências
+Não há referências.
+3. Descrição das Atividades
+3.1 Alteração de Senha do Sistema Y
+ 
+Pré-Requisitos:
+· Nome completo;
+· Login;
+· Divisão.
+
+Obs.: Para os colaboradores com cargo Promotor, o usuário afetado e relatado será o gestor cadastrado na Base Única, transação ZBO103.
+Classificação do chamado: 
+Direcionar chamado: Grupo N1-XXXXXXXXX
+Descrição das atividades:
+Após acessar o SISTEMA Y, selecione o menu “Admin.Sistema” e em seguida clique na opção “Usuário”:
+
+Pesquise o usuário através do botão: 
+Informe o Nome completo do usuário e clique em “Procurar”, conforme abaixo: 
+ 
+Selecione o colaborador e clique no botão “Alterar Senha”: 
+Informe a senha no campo “Nova Senha” e clique no botão “Alterar Senha”: Solucione o chamado.
+ 
+3.2 Alteração de Perfil de Usuário do Sistema Y.
+São autorizados para registrar chamado ou validar via e-mail:
+ 
+1. Pré-requisitos: SISTEMA Y
+São autorizados para registrar chamado ou validar via e-mail:
+· RH;
+· Responsabilidade por área: 
+· Administração de Vendas: XXXXX
+· Aplicações: XXXXX
+· Desenvolvedor: XXXXXX.
+· Funcional TI Base: XXXXXX
+· Gestão de Acesso: XXXXX
+· Central de Serviços: XXXXX.
+· Controles Internos: XXXXXX, ou possuir seu aval anexado no chamado.
+Informar os dados abaixo:
+· Nome Completo;
+· Responsabilidade;
+· Responsabilidade TI – Gerente de Aplicações, ou possuir seu aval anexado no chamado;
+· Posição;
+· Divisão do Colaborador;
+· Usuário Cópia;
+· Setor (para Promotor);
+· Supervisor do Promotor (para Promotor).
+Classificação do chamado: Gestão de Acessos \ Alteração de Perfil de Usuário do Sistema SYSTEMA Y
+Direcionar chamado: Grupo N1-xxxxxxxxx
+3.3 Alteração de Perfil do SISTEMA Y.
+Para alterar, adicionar ou remover nova(s) tela(s) em perfil existente, cuja alteração é refletida para todos os usuários desse mesmo perfil, ou solicitar a criação de um novo perfil, são autorizados para registrar chamado:
+· Colaborador da Companhia, exceto XXXXXX e YYYYYYYY, conforme cadastrado na Base Única, transação ZBO103.
+· Informações necessárias para abertura do chamado:
+· Aval do gestor cadastrado na Base Única, transação ZBO103;
+· Módulo;
+· Tela;
+· Tipo de acesso.
+ 
+Classificação do chamado:Gestão de Acessos \ Alteração de Perfil do SYSTEMA Y Direcionar chamado: Grupo N1-xxxxxxxxx
+Criação de Usuário do SISTEMA Y.
+São autorizados para registrar chamado ou validar via e-mail:
+2. Pré-requisitos: SISTEMA Y
+São autorizados para registrar chamado ou validar via e-mail:
+· RH;
+· Responsabilidade por área: 
+· Administração de Vendas: XXXXXX
+· Aplicações: XXXXXX
+· Desenvolvedor: XXXXXX
+· Funcional TI Base: XXXXXX.
+· Gestão de Acesso: XXXXXX.
+· Central de Serviços: XXXXXX
+· Controles Internos: XXXXXX ou possuir seu aval anexado no chamado.
+Informar os dados abaixo:
+· Nome Completo;
+· Responsabilidade;
+· Responsabilidade TI – Gerente de Aplicações, ou possuir seu aval anexado no chamado;
+· Posição;
+· Divisão do Colaborador;
+· Usuário Cópia;
+· Setor (para Promotor);
+· Supervisor do Promotor (para Promotor).
+Classificação do chamado: Gestão de Acessos \ Criação de Usuário do SYSTEMA Y
+Direcionar chamado: Grupo N1-xxxxxxxxxxxx
+4. Anexos
+Não há anexos.
+INSTRUÇÃO DE TRABALHO (IT)
+Dynamics Artes - Remoção de Acesso
+ 
+1. Introdução / Pré-requisitos para execução da IT
+
+Esta instrução de trabalho descreve a execução das atividades de remoção de acesso dos colaboradores na ferramenta SISTEMA Y.
+Pré-requisitos Mínimos de Acesso ao SISTEMA Y:
+a) Equipamento (Desktop ou Notebook) devidamente configurado com acesso à internet e pacote Office;
+b) Acesso à ferramenta Microsoft Dynamics CRM 365 Completo (perfil Administrador de Sistema):
+c) Nome do Usuário, aplicativos que irá remover;
+d) Unidade de Negócio em que o usuário será alocado caso a remoção seja parcial; 
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistemas deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+ 
+2. Referências
+Não há.
+
+3. Descrição das Atividades
+1. Para remoção de acesso ao APLICATIVO de Artes:
+No SISTEMA Y (SISTEMA Y -> Configurações -> Segurança -> Usuários), selecione o usuário e retire TODOS direitos de Acesso da lista, clicando em ‘Gerenciar Funções’:
+· [ART] - Artes
+· [ART] - Artes Mobile 
+· [ART] - Aprovador Briefing
+· [ART] - Aprovador Material
+· [ART] - Solicitante
+· [ART] - Coordenador Artes
+· [ART] - Equipe Artes
+· [ART] - Responsável Trade 
+NOTAS:
+Caso a remoção de acesso seja PARCIAL, ou seja, o usuário terá acesso a outros Aplicativos, deve-se adotar o procedimento descrito pelos Aplicativos mantidos para realocar à nova Unidade de Negócio.
+Caso a remoção de acesso seja TOTAL, deve-se:
+1) Retirar o direito de acesso “Colaboração” ao usuário no Sharepoint Online para os sites:
+2) Retirar ou Revisar a Licença aos Produtos no Centro de Administração do Office 365.
+ 
+Anexos
+Sem anexo
+ 
+
+INSTRUÇÃO DE TRABALHO (IT)Sistema Y - Classificação de Chamados - Acesso
+
+1. Introdução / Pré-requisitos para execução da IT
+O objetivo dessa instrução de trabalho é descrever os serviços do SISTEMA Y e quais informações são necessárias para o suporte da ferramenta pela CS.
+
+***Nesta IT estão os passos que a CS deve seguir apenas dos serviços técnicos relacionados à gerência de Aplicações, suportados pelo grupo solucionador N1- xxxxx.
+
+1.1 Pré-Requisitos para os serviços técnicos;
+a) Somente deverá ser relatado um único assunto e única pessoa afetada por chamado, caso contrário, ou seja, mais de um colaborador ou assunto no mesmo chamado, o mesmo deverá ser cancelado.
+b) Os demais pré-requisitos estão descritos de acordo com o serviço técnico no Item 3.
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistemas deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+2. Referências
+· GRUPO DESIGNADO: Refere-se a fila de atendimento para determinada solicitação.
+
+3. Descrição das Atividades
+ 
+Neste item, serão descritos os passos para a execução desta Instrução de Trabalho.
+
+Passo 1.0: Identificação da solicitação do usuário e coleta de pré-requisitos;
+1.1 Identificar o serviço técnico solicitado pelo usuário e coletar os devidos pré-requisitos de acordo com a classificação a ser utilizada no chamado que será aberto;
+
+Passo 2.0: Classificação do chamado;
+2.1 Classificar o chamado de acordo com as informações detalhadas em cada item no passo 3;
+
+Passo 3.0: Detalhamento de classificações;
+Alteração de Senha do de Usuário do SISTEMA Y
+Desbloqueio de Senha de Usuário do SISTEMA Y
+Criação de Usuário do SISTEMA Y
+Inativação de Usuário do SISTEMA Y
+Alteração de Usuário do SISTEMA Y 
+ 
+ 
+Alteração de Senha de Usuário do Inativação de Usuário do SISTEMA Y
+Durante a implantação do SISTEMA Yo sistema foi configurado para a realizar a autenticação de usuário via AD, portanto, a alteração de senha do SISTEMA X ocorrerá automaticamente à partir da alteração de senha de rede no AD.
+ 
+Desbloqueio de Senha de Usuário do SISTEMA Y
+
+Pré-requisitos:
+· Nome do colaborador;
+· Usuário do SISTEMA Y;
+· Somente o usuário afetado, ou gerente imediato, poderão solicitar o desbloqueio da senha;
+
+Classificação do chamado:
+
+· GRUPO DESIGNADO: N1- xxxxx
+ 
+Criação de Usuário do SISTEMA Y
+
+Pré-requisitos:
+· Nome do colaborador;
+· Login de rede;
+· E-mail;
+· Grupo de acesso:
+· Everyone;
+· Admnistrator;
+· Help Desk Administrator.
+· Autorização de XXXXXX (XXXXXX@domínio.br).
+ 
+Classificação do chamado:
+· GRUPO DESIGNADO: N1- xxxxx
+Inativação de Usuário do SISTEMA Y
+Pré-requisitos:
+· Nome do colaborador;
+· Usuário do SISTEMA Y;
+· Motivo da inativação do usuário;
+· O RH ou gerente imediato poderá solicitar a inativação do usuário.
+· Ou com autorização de xxxxx
+ 
+Classificação do chamado:
+· GRUPO DESIGNADO: N1- xxxxx
+
+Alteração de Usuário do SISTEMA Y
+Pré-requisitos:
+· Nome do colaborador;
+· Usuário do SISTEMA Y;
+· Motivo da inativação do usuário;
+· O RH ou gerente imediato poderá solicitar a inativação do usuário.
+· Ou com autorização de xxxxx
+
+· .
+ 
+Classificação do chamado:
+· GRUPO DESIGNADO: N1- xxxxx
+4. Anexos
+Não há anexos.
+
+IT- INSTRUÇÃO DE TRABALHO
+CS - SAP - CRIAR CONTA DE USUÁRIO NO SAP
+ 
+Introdução / Pré-requisitos para execução da IT
+Esta instrução de trabalho visa orientar o analista/assistente das áreas: Central de Serviços, e Operação, a criar uma conta de usuário de sistema no cadastro único de usuários do SAP.
+1.1 Pré-requisitos:
+a) Saber o número da Identidade do usuário, ou número do CPF;
+b) Possuir os dados da conta a ser criada;
+c) Acesso a transação ZBO104 e ao sistema específico.
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+Referências
+Não há referências.
+Descrição das Atividades
+Passo 01: Abra o SAP Logon e clique duas vezes no ambiente “02) A EMPRESA X ERP Produção 
+Passo 02: Digite a transação ZBO104 e tecle Enter.
+Passo 03: Digite a identidade do colaborador e clique no botão executar  .
+Observação: Para consultar o colaborador pelo nome ou CPF, clique no matchcode  , Informe o nome ou CPF do colaborador e clique em “Avançar”  :
+Passo 04: Para criar uma nova conta de sistema para a identidade, clique no botão novo  ou tecle F5.
+Passo 05: Clique no mechcode  do campo ID Sistema e informe o sistema, depois clique no campo Login do usuário e informe o login do usuário no sistema em questão. Após preencher todos os campos, clique em salvar  .
+Observação: Ao salvar o cadastro do usuário na conta de sistema AD, clique em salvar:
+Será aberta uma pop-up:
+Ao clicar em “Não”, apresentará pop-up do Passo 06.
+Ao clicar em “Sim”, apresentará pop-up abaixo para confirmação e validação do e-mail. Para prosseguir com cadastro, clique em “Avançar” ou tecle “Enter” :
+Observação: O campo “E-mail do usuário” é liberado para edição.
+Passo 06: Clique no botão finalizar .
+Passo 07: Clique no botão voltar  para visualizar a conta de sistema criada para o colaborador.
+Anexos
+Não há anexos.
+
+IT- INSTRUÇÃO DE TRABALHO
+CS - SAP - INATIVAÇÃO DE USUÁRIO NO SAP ZBO104 E SAP PORTAL
+Introdução 
+Pré-requisitos para execução da IT
+Esta instrução de trabalho tem como objetivo orientar os analistas no processo de inativação uma conta de sistema SAP ou Portal no cadastro único de usuários do SAP.
+Pré-requisitos:
+a) Acesso ao SAP ERP Produção;
+b) Número da Identidade do usuário no SAP, ou número do CPF;
+c) Acesso à transação A, para RH;
+d) Acesso à transação B, para Central de Serviços;
+e) Acesso à transação C, para Gestão de Acessos.
+
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistema deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+
+
+Referências
+Descrição das Atividades
+A inativação de usuário no Sistema SAP e Portal é realizada de forma automática, através das transações: ZBO127, ZBO104 e ZBO106.
+3.1 Inativação de usuário através da transação A
+Inativação de Usuário pelo RH, é realizada a inativação de Funcionários e Terceiros pelo RH e apenas de Terceiros pela Central de Serviços no sistema SAP e Portal.
+3.2 Inativação de usuário através da transação B
+A inativação de terceiros no sistema SAP e Portal é realizada através da ZBO104 e executada pela equipe da Central de Serviços
+3.3 Inativação de usuário através da C
+A inativação dos colaboradores (CLT e terceiros) no sistema SAP e Portal SAP é realizada através da ZBO106 e executada pela equipe de Gestão de Acessos
+3.4 Após as equipes citadas acima executarem o processo de inativação, o sistema identificará se o usuário possui acesso ao SAP e Portal SAP. Caso possua, o acesso será desativado automaticamente conforme ilustração abaixo:
+ 3.4.1 
+Será alterado “status cta” do usuário na BBO104 para “I” de Inativo.
+3.4.2 No ambiente 06) SAP Solution Manager, transação SU01, ocorrerá as seguintes alterações:
+3.4.2.1 Na aba “Endereço” o campo “Edifício” será alterado para “INATIVOS”:
+3.4.2.2 Na aba “Sists.” serão removidos todos os sistemas de acesso.
+3.4.2.3 Na aba “Funçs.” serão removidos todos os perfis de acesso.
+3.4.2.4 Na aba “Grupos” será incluso o grupo “INATIVOS”.
+3.4.2.5 Usuário ficará com bloqueio global.
+
+ 3.4.2.6 No Portal SAP, na aba “Informações sobre a conta” o campo “Conta de usuário bloqueada” ficará selecionado. Esta aba também informa o histórico de bloqueio do usuário através do campo “Última data de bloqueio da conta:”.
+3.5 Para identificar o histórico de inativação do usuário no SAP, é necessário executar o relatório fornecido pela transação CCCC01
+Anexos
+Não há anexos.
+  1.	  INSTRUÇÃO DE TRABALHO (IT) Troca de perfil de Usuário no Sistema Y - xxxxxx
+
+  2.	Introdução / Pré-requisitos para execução da IT
+
+Esta instrução de trabalho visa orientar o analista a realizar a criação de usuário no sistema SISTEMA Y
+
+1.1	Pré-requisitos:
+a)	Acesso ao SISTEMA X;
+b)	Acesso ao SISTEMA Z.
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistemas deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+  3.	Referências
+
+Não há referências.
+
+  4.	Descrição das Atividades
+
+3.1.  Pelo navegador Internet Explorer digite o endereço: HTTP://XXXXXX
+
+3.1.1. Acesse a pasta SISTEMAS:
+
+3.1.2. Em seguida, acesse a pasta SISTEMA Y: 
+
+3.1.3. Na pasta SISTEMA Y contém as opções de acesso:
+•	Easy SmartClient – PRD (Ambiente de Produção).
+•	Easy SmartClient – QAS (Ambiente de Qualidade e Desenvolvimento).
+
+Observação: Primeiramente cria o grupo no ambiente de qualidade e realiza os testes com o mesmo. Quando confirmado o acesso, solicitação é encaminhada para a equipe de Controles Internos e, após a aprovação deste que é criado no ambiente de produção. 
+
+	3.1.4. Abra o Smart Client no ambiente que necessitar (Produção ou Qualidade).
+
+3.1.4.1. O Programa Inicial virá configurado como: SIGAEIC (Easy Import Control): 
+
+
+
+		3.1.4.2. Para criação do usuário, deve-se alterar a configuração do Programa Inicial manualmente para: SIGACFG (Modo de Configuração):
+
+
+
+Observação: Os Parâmetros Iniciais possuem 03 campos, que são:
+	
+•	Programa Inicial: É indicado o módulo de conexão do Protheus, será utilizado o SIGACFG que é o módulo configurador, onde é atribuído acesso ao usuário, criação de grupos, reset de senha, bloqueio de acesso e outros. 
+•	Comunicação no Cliente: Indica o ambiente para conexão.
+•	Ambiente no Servidor: Indica o ambiente para conexão dentro do servidor.
+
+3.2. Digite seu usuário e senha e clique em “Acessar Protheus”.
+
+
+
+3.2.1. Na próxima tela clique em “Entrar”.
+
+
+
+3.3. No menu do Configurador,  acesse as opções “Usuário > Senhas > Grupos” que abrirá a tela de Criação de usuários.
+
+3.3.1. Em seguida, acesse a opção “Incluir” para abrir as opções de criação do grupo.
+ 
+ 
+3.3.2. Na aba “Grupo”, é necessário preencher o nome do Grupo e a sua descrição. Os demais parâmetros de configuração não são alterados.
+
+
+
+	3.3.2. Em seguida, clique nas abas “Restrições de Acessos > Filiais > Grupo de empresas”, selecione a filial que o novo grupo deverá ter o acesso permitido e clique em “OK”. Para cadastrar nova filial, deve-se repetir o processo.
+
+Observação: Ao cadastrar nova filial, é necessário inserir nova linha, clicando na seta para baixo do teclado.
+ 
+
+
+	3.3.3. Em seguida, clique na aba “Ambientes” e selecione o módulo do Easy: SIGAEIC – Easy Import Control.
+
+
+
+3.3.3.1. Em seguida, atribua o menu criado para o grupo, alterando o campo “Arquivo”. Segue abaixo o passo a passo:
+3.3.3.1.1. Clique no mechcode para abrir a caixa de seleção:
+
+
+
+			3.3.3.1.2. Selecione a pasta “System”. 
+
+
+3.3.3.1.2. Selecione o arquivo do menu e clique em “Abrir”:
+
+
+
+3.3.4. Clique em “Confirmar” para salvar as alterações.
+
+3.4. Para controle de acesso liberado no sistema Comex, é necessário que atualize a planilha “Controle_Grupos_de_Acessos_Comex”, que encontra-se disponível no endereço: g:\xxxxx
+
+
+
+  5.	Anexos
+
+Não há anexos.
+
+  INSTRUÇÃO DE TRABALHO (IT) 
+SISTEMA Y - Criação de Menus de Acesso
+  1.	
+  2.	Introdução / Pré-requisitos para execução da IT
+
+Esta instrução de trabalho visa orientar o analista a realizar a criação de usuário no SISTEMA Y
+
+1.1	Pré-requisitos:
+a)	Acesso ao SISTEMA X;
+b)	Acesso ao SISTEMA Z;
+c)	Planilha “IT - SISTEMA Y_Criação de Menus” preenchida pelo usuário com o tipo de acesso a ser atribuído no Menu.
+1.1	 Revisão Semestral de Acessos
+a)	Regularmente os acessos ao Sistemas deverão ser revisados pelo Gestor do time de GQ-Digital.
+b)	A lista de acessos ativos no sistema será gerada pelo time de Digital - Acessos 
+c)	A lista deve ser respondida pelo Gestor de Negócio validando a lista ativa ou informando quais inativações deverão ser realizadas
+d)	O time de Digital - Acessos registrará as alterações a partir de chamados no Sistema de ITSM de Digital em nome do Gestor de GQ-Digital.
+e)	O time de Digital - Acessos executará a atualização e finalizará o chamado com status de resolvido.
+
+  3.	Referências
+
+Não há referências.
+
+  4.	Descrição das Atividades
+
+Para criação do Menu, é encaminhada ao usuário a planilha “IT - SISTEMA Y_Criação de Menus”, onde deve ser mapeado os acessos que precisará. Após o preenchimento da mesma, seguiremos o ítem 3.1.
+
+3.1.  Pelo navegador Internet Explorer digite o endereço: HTTPS://XXXXXXXXXXXXX
+
+3.1.1. Acesse a pasta SISTEMAS:
+3.1.2. Em seguida, acesse a pasta SISTEMA Y: 
+3.1.3. Na pasta SISTEMA Y contém as opções de acesso:
+•	SISTEMA Y  SmartClient – PRD (Ambiente de Produção).
+•	SISTEMA Y  SmartClient – QAS (Ambiente de Qualidade e Desenvolvimento).
+
+	3.1.4. Abra o SISTEMA Z no ambiente que necessitar (Produção ou Qualidade).
+3.1.4.1. O Programa Inicial virá configurado como: SIGAEIC (SISTEMA Y  Import Control): 
+		3.1.4.2. Para criação do usuário, deve-se alterar a configuração do Programa Inicial manualmente para: SIGACFG (Modo de Configuração):
+
+Observação: Os Parâmetros Iniciais possuem 03 campos, que são:
+	
+•	Programa Inicial: É indicado o módulo de conexão do Protheus, será utilizado o SIGACFG que é o módulo configurador, onde é atribuído acesso ao usuário, criação de grupos, reset de senha, bloqueio de acesso e outros. 
+•	Comunicação no Cliente: Indica o ambiente para conexão.
+•	Ambiente no Servidor: Indica o ambiente para conexão dentro do servidor.
+
+3.2. Digite seu usuário e senha e clique em “Acessar SISTEMA x”.
+3.2.1. Na próxima tela clique em “Entrar”.
+
+3.3. No menu do Configurador,  acesse as opções “Usuário > Cadastros > Menus” que abrirá a tela de Criação e Edição de Menus.
+
+3.3.1. Para criação de novo menu, temos como base o menu inicial do Ambiente SISTEMA Y  Import Control (EIC).
+
+	3.3.2. Clique em “Adicionar” os itens serão disponibilizados para o modo edição no “Novo Menu”. 
+		3.3.3. Na tela “Configuração de Menus”, em “Novo Menu” são carregadas todas as telas presentes no ambiente EIC, nelas devemos aplicar as restrições conforme mapeamento da planilha. Segue abaixo descrição da tela para configuração das restrições:
+ 
+		3.3.3.1. Adicionar: Carrega o Menu para o modo edição;
+3.3.3.2. Remover: Remove o Menu do modo edição;
+		3.3.3.3. Novo Grupo: Adiciona uma nova pasta ao meu;
+		3.3.3.4. Novo Item: Adiciona um novo campo;
+		3.3.3.5. Detalhes: Selecionado o Item do Menu, podemos editar os acessos ao item;
+		3.3.3.6. Mover para Cima: Move o item de posição;
+		3.3.3.7. Mover para Baixo: Move o item de posição;
+3.3.3.8. Pesquisar;
+		3.3.3.9. Gerar: Gravar o Menu do Sistema;
+		3.3.3.10. Fechar: Fecha sem salvar as alterações.
+
+	3.4. Para restringir o acesso selecione o ítem que irá modificar, e clique no botão “Detalhes”.
+
+
+ 
+
+
+		3.4.1. Abrirá a tela abaixo para configuração do Menu: 
+
+
+		3.4.1.1. Descrição: Informe o nome do ítem;
+		3.4.1.2. Programa: Selecione “EICZCC” para o nome do programa;
+		3.4.1.3. Status: Selecione o status do menu:
+			3.4.1.3.1. Habilitado: Menu terá acesso a configuração do ítem;
+			3.4.1.3.2. Desabilitado: Menu não terá acesso a configuração do ítem e  o visualizará.
+			3.4.1.3.3. Inibido: Menu terá acesso a configuração do ítem e não o visualizará.
+
+		3.4.1.4. Rotinas do browser: Opções devem ser selecionadas de acordo com o preenchimento da planilha “XX- SISTEMA Y_Criação de Menus”.
+
+	3.4.2. Após configuração do Menu, clique no botão “Gerar”. Salve o Menu com o mesmo nome. Em seguida clique em “Gerar” e logo após em “Fechar”.
+
+Exemplo: M_ACESSOS
+
+
+3.5. Para controle de acesso liberado no sistema SISTEMA Y, é necessário que atualize a planilha “Controle_Grupos_de_Acessos_ SISTEMA Y”, que encontra-se disponível no endereço: 
+
+  5.	Anexos
+
+Anexo I - SISTEMA Y_Criação de Menus
+
+INSTRUÇÃO DE TRABALHO
+FIELD – SISTEMA Y – ANDROID 
+
+  1.	Introdução / Pré-requisitos para execução da IT
+
+Este documento tem por objetivo orientar o time de FieldService na padronização de móveis destinado ao público Android Xxxxx.
+
+1.1	Pré-requisitos:
+a)	Realizar previamente o cadastro do SN do dispositivo no portal SISTEMA Y  pelo link htttxxxxxxxxxx..
+b)	Perfil destinado a todos os cargos até gerencia.
+  2.	Referências
+
+•	ND
+
+
+  3.	Descrição das Atividades
+3.1	Após realizar o HardReset, selecione o idioma e clique em Iniciar. Em seguida no lugar do e-mail insira o valor afw#setup e clique em Próxima
+
+3.2	Siga com a instalação do Android Device Policy e aceite os termos.
+
+3.3	Aponte a câmera para o QRCode. Caso apresente erro na leitura você pode inserir o código RUCNJNUC.
+
+3.4	Aceite os termos novamente e faça logon com a conta Da EMPRESA X do colaborador.
+
+3.5	Clique em entrar e faça logon novamente com a conta Da EMPRESA X do colaborador.
+
+3.6	Finalizado, basta aguardar que os aplicativos e demais configurações sejam aplicados automaticamente. 
+
+  4.	Anexos
+
+•	ND
+
